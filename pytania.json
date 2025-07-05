@@ -1,0 +1,4352 @@
+[
+    {
+        "numer": "1)",
+        "pytanie": "Które z poniższych stwierdzeń NIE jest prawdziwe w przypadku osi krystalograficznych?",
+        "odpowiedzi": {
+            "a": "muszą być do siebie wzajemnie prostopadłe",
+            "b": "są równoległe do krawędzi komórki elementarnej",
+            "c": "wychodzą z jednego z wierzchołków komórki",
+            "d": "tworzą prawoskrętny układ współrzędnych"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "2)",
+        "pytanie": "Odmiany alotropowe żelaza: (Fe-α) oraz (Fe-δ) mają następujące struktury krystaliczne:",
+        "odpowiedzi": {
+            "a": "odpowiednio RPC (A2) i HZ (A3)",
+            "b": "obie posiadają strukturę RSC (A1)",
+            "c": "obie posiadają strukturę RPC (A2)",
+            "d": "odpowiednio RSC (A1) i RPC (A2)"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "3)",
+        "pytanie": "Minimalna odległość pomiędzy atomami w strukturze RSC (A1) wynosi:",
+        "odpowiedzi": {
+            "a": "połowę przekątnej przestrzennej komórki elementarnej (a√3/2)",
+            "b": "długość przekątnej ściany komórki elementarnej (a√2)",
+            "c": "połowę przekątnej ściany komórki elementarnej (a√2/2)",
+            "d": "długość krawędzi komórki elementarnej (a)"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "4)",
+        "pytanie": "Płaszczyzny i kierunki najgęściej wypełnione atomami w strukturze RSC (A1) to:",
+        "odpowiedzi": {
+            "a": "płaszczyzny typu {111} i kierunki typu <110>",
+            "b": "płaszczyzny typu {110} i kierunki typu <111>",
+            "c": "płaszczyzny typu {100} i kierunki typu <110>",
+            "d": "płaszczyzny typu {110} i kierunki typu <100>"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "5)",
+        "pytanie": "Odległość między płaszczyznami typu {122} wynosi:",
+        "odpowiedzi": {
+            "a": "a/3",
+            "b": "𝑎√5/2",
+            "c": "a/5",
+            "d": "𝑎√5/5"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "6)",
+        "pytanie": "Pas krystalograficzny jest to:",
+        "odpowiedzi": {
+            "a": "zbiór płaszczyzn oraz kierunków o tych samych wskaźnikach",
+            "b": "zbiór kierunków krystalograficznych równoległych do określonej płaszczyzny",
+            "c": "zbiór płaszczyzn krystalograficznych równoległych do wspólnego kierunku",
+            "d": "zbiór kierunków krystalograficznych przechodzących przez określony punkt"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "7)",
+        "pytanie": "Termin system poślizgu oznacza:",
+        "odpowiedzi": {
+            "a": "zespół kierunków krystalograficznych wzdłuż których atomy się stykają",
+            "b": "podstawowy mechanizm odkształcenia plastycznego na zimno",
+            "c": "zespół płaszczyzn krystalograficznych o najgęstszym wypełnieniu atomami",
+            "d": "kombinację płaszczyzny i kierunku o najgęstszym rozmieszczeniu atomów"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "8)",
+        "pytanie": "Wskazać formę, która NIE jest odmianą alotropową węgla:",
+        "odpowiedzi": {
+            "a": "fuleren",
+            "b": "grafit",
+            "c": "diament",
+            "d": "grafen"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "9)",
+        "pytanie": "Błąd ułożenia powstały przez wstawienie części warstwy atomowej to:",
+        "odpowiedzi": {
+            "a": "błąd podwójny",
+            "b": "błąd pojedynczy",
+            "c": "błąd zgodny",
+            "d": "błąd wewnętrzny"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "10)",
+        "pytanie": "Ułożenie płaszczyzn o najgęstszym wypełnieniu atomami w strukturze RSC (A1) występuje:",
+        "odpowiedzi": {
+            "a": "w sekwencji ABCABCABC...",
+            "b": "w sekwencji ABABABAB...",
+            "c": "w sekwencji ABACABAC…",
+            "d": "w sekwencji ABCBABCB… 𝑛+2 1"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "11)",
+        "pytanie": "Granica ciągu lim (1+ ) jest równa 𝑛→∞ 𝑛+2",
+        "odpowiedzi": {
+            "a": "e",
+            "b": "e2",
+            "c": "1",
+            "d": "+∞ sin2𝑥"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "12)",
+        "pytanie": "Granica funkcji lim jest równa 𝑥→0 𝑥 1",
+        "odpowiedzi": {
+            "a": "1/2",
+            "b": "2",
+            "c": "1",
+            "d": "2𝑥"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "13)",
+        "pytanie": "Pochodna funkcji 𝑓(𝑥) =tg 𝑥∙ln𝑥 jest równa ln𝑥 tg 𝑥",
+        "odpowiedzi": {
+            "a": "+ cos2𝑥 𝑥 1",
+            "b": "𝑥∙cos2𝑥 1 1",
+            "c": "+ cos2𝑥 𝑥 tg 𝑥 ∙ln𝑥",
+            "d": "cos2𝑥"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "14)",
+        "pytanie": "Całka ∫ 1 𝑥2𝑑𝑥 jest równa −1",
+        "odpowiedzi": {
+            "a": "0",
+            "b": "x^3/3",
+            "c": "1/3",
+            "d": "2/3"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "15)",
+        "pytanie": "Wyznacznik macierzy 𝐴 = [ 2 4 6] jest równy −1 0 1",
+        "odpowiedzi": {
+            "a": "4",
+            "b": "-4",
+            "c": "0",
+            "d": "-16 1 2 3"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "16)",
+        "pytanie": "Rząd macierzy 𝐴 = [0 0 6] jest równy 0 0 1",
+        "odpowiedzi": {
+            "a": "0",
+            "b": "1",
+            "c": "2",
+            "d": "3"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "17)",
+        "pytanie": "Pierwsze prawo Kirchhoffa dla obwodów elektrycznych:",
+        "odpowiedzi": {
+            "a": "Suma algebraiczna wartości chwilowych prądów w węźle obwodu elektrycznego jest równa zeru, czyli suma prądów wpływających do węzła równa się sumie prądów wypływających z węzła.",
+            "b": "Suma algebraiczna wartości chwilowych sił magnetomotorycznych (SMM) występujących w oczku równa się sumie wartości chwilowych napięć na elementach pasywnych obwodu.",
+            "c": "Suma algebraiczna wartości chwilowych sił elektromotorycznych (SEM) występujących w oczku równa się sumie wartości chwilowych napięć na elementach pasywnych obwodu.",
+            "d": "Suma algebraiczna wartości chwilowych prądów i napięć w węźle obwodu elektrycznego jest równa zeru, czyli suma prądów i napięć wpływających do węzła równa się sumie prądów wypływających z węzła."
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "18)",
+        "pytanie": "Czym charakteryzują się elementy idealne R, L, C?",
+        "odpowiedzi": {
+            "a": "R – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii w polu magnetycznym; L – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; C – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z wystę- powaniem między elektrodami napięcia U.",
+            "b": "R – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elek- trycznej w ciepło; L – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właści- wość gromadzenia energii w polu magnetycznym; C – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z wystę- powaniem między elektrodami napięcia U.",
+            "c": "R – rezystancja (opór bierny), przy przepływie prądu ma jedynie zdolność przemiany energii elek- trycznej w ciepło; L – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektro- dach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U; C – indukcyjność własna i wzajemna, przy przepływie prądu zmiennego ma jedynie wła- ściwość gromadzenia energii elektrycznej w polu magnetycznym.",
+            "d": "R – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elek- trycznej w ciepło; L – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektro- dach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U; C – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gro- madzenia energii w polu magnetycznym."
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "19)",
+        "pytanie": "Drugie prawo Kirchhoffa dla obwodów magnetycznych:",
+        "odpowiedzi": {
+            "a": "Suma algebraiczna strumieni magnetycznych w węźle obwodu magnetycznego jest równa zeru.",
+            "b": "Suma algebraiczna strumieni elektrycznych w węźle obwodu elektrycznego jest różna od zera. n R mk",
+            "c": "W oczku obwodu magnetycznego suma spadków napięć magnetycznych k=1 jest równa su- mie sił magnetomotorycznych k n = 1 H k  l k .",
+            "d": "Suma algebraiczna strumieni magnetycznych i spadków napięć elektrycznych w węźle obwodu ma- gnetycznego jest równa zeru."
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "20)",
+        "pytanie": "Co to jest histereza magnetyczna?",
+        "odpowiedzi": {
+            "a": "Jakiekolwiek zmiany strumienia magnetycznego skojarzonego z przewodzącym obwodem zamknię- tym powodują powstawanie sił elektromotorycznych i sił mechanicznych, przeciwdziałających zmia- nom skojarzonego strumienia magnetycznego.",
+            "b": "Jeżeli po osiągnięciu określonego punktu charakterystyki pierwotnej zmniejszymy indukcję magne- tyczną B, to natężenie pola magnetycznego H będzie się zmieniało według krzywej innej niż charak- terystyka wtórna.",
+            "c": "Jeżeli po osiągnięciu określonego punktu charakterystyki wtórnej zmniejszymy indukcję magne- tyczną B, to natężenie pola magnetycznego H będzie się zmieniało według krzywej innej niż charak- terystyka pierwotna.",
+            "d": "Jeżeli po osiągnięciu określonego punktu charakterystyki pierwotnej zmniejszymy natężenie pola magnetycznego H, to indukcja magnetyczna B będzie się zmieniała według krzywej innej niż charak- terystyka pierwotna."
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "21)",
+        "pytanie": "Przesył prądu biernego indukcyjnego jest związany z:",
+        "odpowiedzi": {
+            "a": "Koniecznością poboru mocy biernej w elektrowniach zasilających sieć.",
+            "b": "Koniecznością poboru mocy czynnej i pozornej w elektrowniach zasilających sieć.",
+            "c": "Wzrostem spadków napięć w tych wszystkich przypadkach, gdy w grę wchodzi indukcyjność prze- wodów linii; koniecznością wytworzenia mocy biernej w elektrowniach zasilających sieć; wzrostem strat mocy i energii czynnej – straty mocy zależą od kwadratu modułu prądu I; wzrostem prądu przesyłanego i koniecznością takiego wymiarowania poszczególnych elementów sieci, aby były one przystosowane do przesyłu zwiększonego prądu.",
+            "d": "Koniecznością poboru mocy biernej w elektrowniach zasilających sieć oraz koniecznością takiego wymiarowania poszczególnych elementów sieci, aby były one przystosowane do przesyłu zwiększo- nego napięcia."
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "22)",
+        "pytanie": "Zapotrzebowanie na moc bierną może być ograniczone dzięki:",
+        "odpowiedzi": {
+            "a": "Właściwemu doborowi silników elektrycznych do napędzanych maszyn (zmniejszenie mocy znamio- nowych silników i zmniejszenie poboru mocy biernej na magnesowanie); właściwemu doborowi mocy transformatorów do mocy zasilanych odbiorów; ograniczeniu czasów pracy nieobciążonych silników i transformatorów (pobór mocy jedynie na magnesowanie); zastosowaniu silników syn- chronicznych zamiast silników indukcyjnych (możliwość redukcji wzbudzenia i tym samym regulacji poboru mocy biernej).",
+            "b": "zmniejszenie mocy znamionowych silników i zmniejszenie poboru mocy biernej na zmianę wzbu- dzenia.",
+            "c": "zastosowaniu silników asynchronicznych zamiast silników indukcyjnych (możliwość zwiększenia wzbudzenia i tym samym regulacji poboru mocy biernej)",
+            "d": "Żadne z wymienionych"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "32)",
+        "pytanie": "Gdy pewna siła jest przyłożona do masy 1 kg to jego przyśpieszenie wynosi 5 m/s2. Jeśli ta sama siła jest przyłożona do obiektu o innej masie, to jego przyśpieszenie jest jedną piątą poprzedniego. Masa obiektu wynosi:",
+        "odpowiedzi": {
+            "a": "5,0 kg",
+            "b": "0,5 kg",
+            "c": "1 kg",
+            "d": "0,2 kg"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "33)",
+        "pytanie": "W ruchu jednostajnym masy m po okręgu:",
+        "odpowiedzi": {
+            "a": "przyśpieszenie jest 0, ponieważ jest to ruch jednostajny",
+            "b": "siła zmienia się, ale jej wartość jest stała",
+            "c": "przyśpieszenie jest stałe",
+            "d": "przyśpieszenie i siła skierowane są na zewnątrz okręgu"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "34)",
+        "pytanie": "Zachowanie się domen magnetycznych w ferromagnetyku pod wpływem zewnętrznego pola magnetycznego prowadzi do:",
+        "odpowiedzi": {
+            "a": "Ferromagnetyzmu",
+            "b": "Istnienia temperatury Curie",
+            "c": "prawa indukcji Faradaya",
+            "d": "Histerezy"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "35)",
+        "pytanie": "Który z rysunków najlepiej odzwierciedla prawo Ohma?",
+        "odpowiedzi": {
+            "a": "Odp. A",
+            "b": "Odp. B",
+            "c": "Odp. C",
+            "d": "Odp. D"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "36)",
+        "pytanie": "Rdzeń transformatora zrobiony jest z żelaza, a nie miedzi ponieważ:",
+        "odpowiedzi": {
+            "a": "może wytrzymać wyższe temperatury",
+            "b": "jest ferromagnetykiem, ale nie nadaje się na magnesy stałe",
+            "c": "ma większy opór",
+            "d": "jest ferromagnetykiem i nadaje się na magnesy stałe"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "37)",
+        "pytanie": "Pole magnetyczne istnieje miedzy okładkami kondensatora (oczywiście nie pole magnetyczne ziemskie)",
+        "odpowiedzi": {
+            "a": "gdy kondensator jest ładowany",
+            "b": "zawsze",
+            "c": "jeśli kondensator jest rozładowany",
+            "d": "jeśli kondensator jest naładowany"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "38)",
+        "pytanie": "Składowe stanu naprężenia w danym punkcie ciała wynoszą: 0 1 1 𝜎 = [1 1 0] 𝑖𝑗 1 0 1 Obliczyć aksjator stanu naprężenia. 2 0 0 3 2",
+        "odpowiedzi": {
+            "a": "0 0 3 2 0 0 [ ] 3 1 0 0 3 1",
+            "b": "0 0 3 1 0 0 [ ] 3 2 0 0",
+            "c": "[0 2 0] 0 0 2 1 0 0",
+            "d": "[0 1 0] 0 0 1"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "39)",
+        "pytanie": "W danym punkcie ciała składowe stanu naprężenia wynoszą: 2 2 0 𝜎 = [2 5 0] 𝑖𝑗 0 0 0 Obliczyć dewiator stanu naprężenia. 1 − 0 0 3 5",
+        "odpowiedzi": {
+            "a": "0 0 3 7 0 0 − [ ] 3 1 − 0 0 3 8",
+            "b": "0 0 3 7 0 0 − [ ] 3 2 − 0 0 3 8",
+            "c": "0 0 3 7 0 0 − [ ] 3 1 − 0 0 3 8",
+            "d": "0 0 3 5 0 0 − [ ] 3"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "40)",
+        "pytanie": "Stan naprężenia można rozłożyć na dwa stany podstawowe:",
+        "odpowiedzi": {
+            "a": "stan naprężeń stycznych oraz stan naprężeń średnich",
+            "b": "stan naprężeń stycznych oraz stan naprężeń głównych",
+            "c": "stan hydrostatyczny oraz czyste ścinanie",
+            "d": "stan naprężeń oktaedrycznych oraz stan naprężeń średnich"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "41)",
+        "pytanie": "Naprężenia główne to takie naprężenia:",
+        "odpowiedzi": {
+            "a": "które działają prostopadle do płaszczyzn na których występują",
+            "b": "które działają stycznie do płaszczyzn na których występują",
+            "c": "których suma jest równa zero",
+            "d": "których suma jest równa intensywności naprężenia"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "42)",
+        "pytanie": "Stan odkształcenia można rozłożyć na dwa stany podstawowe:",
+        "odpowiedzi": {
+            "a": "odkształcenie postaciowe oraz odkształcenie objętościowe",
+            "b": "odkształcenia skończone i odkształcenia nieskończenie małe",
+            "c": "odkształcenia liniowe oraz odkształcenia skończone",
+            "d": "odkształcenia średnie i odkształcenia nieskończenie małe"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "43)",
+        "pytanie": "Niezmiennikami stanu naprężenia nazywamy:",
+        "odpowiedzi": {
+            "a": "krytyczne naprężenia powodujące utratę spójności materiału",
+            "b": "naprężenia styczne, zależne od przyjętego układu odniesienia",
+            "c": "wyrażenia algebraiczne utworzone ze składowych stanu naprężenia, które nie zmieniają swoich wartości podczas transformacjach układu odniesienia",
+            "d": "naprężenia normalne, uzależnione od przyjętego układu odniesienia"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "44)",
+        "pytanie": "Energię odkształcenia sprężystego można rozłożyć na dwie składowe:",
+        "odpowiedzi": {
+            "a": "energię odkształcenia postaci i energię odkształcenia objętości",
+            "b": "energię odkształcenia objętości i energię pękania",
+            "c": "energię pełzania i energię pękania",
+            "d": "energię odkształcenia postaci i energię odkształcenia plastycznego"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "45)",
+        "pytanie": "Całkowite zastępcze naprężenie to naprężenie jednoosiowe, które:",
+        "odpowiedzi": {
+            "a": "powoduje utratę spójności materiału",
+            "b": "powoduje przejście materiału w stan plastyczny",
+            "c": "powoduje inne wytężenie materiału niż takie, które jest opisane tensorem naprężenia",
+            "d": "powoduje takie samo wytężenie materiału jak złożony stan naprężenia"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "46)",
+        "pytanie": "Całkowite zastępcze odkształcenie to takie odkształcenie:",
+        "odpowiedzi": {
+            "a": "które jest spowodowane innym wytężeniem materiału niż takie, które jest opisane tensorem naprę- żenia",
+            "b": "którego występowanie jest równoważne obecności złożonego stanu odkształcenia opisanego tenso- rem",
+            "c": "które powoduje przejście materiału ze stanu sprężystego w stan plastyczny",
+            "d": "które prowadzi do utraty spójności materiału"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "47)",
+        "pytanie": "Proces koksowania jest procesem:",
+        "odpowiedzi": {
+            "a": "spalania węgla",
+            "b": "odgazowania węgla",
+            "c": "oszczędzania węgla",
+            "d": "utleniania węgla"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "48)",
+        "pytanie": "Proces wielkopiecowy jest procesem odbywającym się :",
+        "odpowiedzi": {
+            "a": "prostopadle",
+            "b": "w nurcie",
+            "c": "w żeliwiaku",
+            "d": "w przeciwprądzie"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "49)",
+        "pytanie": "W wielkim piecu głównym produktem jest:",
+        "odpowiedzi": {
+            "a": "surówka przeróbcza",
+            "b": "surówka zwierciadlista",
+            "c": "żużel wielkopiecowy",
+            "d": "żeliwo"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "50)",
+        "pytanie": "Surówka przeróbcza jest głównym składnikiem metalicznym stosowanym w :",
+        "odpowiedzi": {
+            "a": "w elektrycznym piecu łukowym",
+            "b": "w tlenowym procesie konwertorowym",
+            "c": "w piecu zawiesinowym",
+            "d": "w piecu szybowym"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "51)",
+        "pytanie": "Surówka odlewnicza jest przeznaczona dla otrzymywania :",
+        "odpowiedzi": {
+            "a": "stali",
+            "b": "odtleniaczy",
+            "c": "żeliwa",
+            "d": "żelazostopów"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "52)",
+        "pytanie": "Złom oraz żelazo gąbczaste są głównym składnikiem metalicznym stosowanym w :",
+        "odpowiedzi": {
+            "a": "elektrycznych piecach łukowych",
+            "b": "procesach konwertorowych",
+            "c": "piecach szybowych",
+            "d": "piecach zawiesinowych"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "53)",
+        "pytanie": "Proces ciągłego odlewania stali stosuje się głównie po to aby:",
+        "odpowiedzi": {
+            "a": "zwiększyć uzysk stali",
+            "b": "zwiększyć produkcję stali",
+            "c": "zwiększyć odlew stali",
+            "d": "zwiększyć ciągłość stali"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "54)",
+        "pytanie": "Czynnikiem decydującym o rodzaju przeróbki plastycznej jest tak zwana:",
+        "odpowiedzi": {
+            "a": "temperatura mięknięcia",
+            "b": "temperatura krzepnięcia",
+            "c": "temperatura rekrystalizacji",
+            "d": "temperatura wrzenia"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "55)",
+        "pytanie": "Przy otrzymywaniu miedzi OSTATNIM etapem jest:",
+        "odpowiedzi": {
+            "a": "flotacja",
+            "b": "wytapianie kamienia miedziowego",
+            "c": "elektrolityczna rafinacja",
+            "d": "konwertorowanie"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "56)",
+        "pytanie": "W metodzie traconego modelu materiał z którego wykonuje się model to:",
+        "odpowiedzi": {
+            "a": "żeliwo, staliwo",
+            "b": "wosk, parafina",
+            "c": "drewno",
+            "d": "cement, gips"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "57)",
+        "pytanie": "Recykling złomu aluminiowego w procesie wytapiania aluminium pozwala na zmniejszenie zużycia energii elektrycznej w porównaniu do wytapiania pierwotnego z rudy o około :",
+        "odpowiedzi": {
+            "a": "10 %",
+            "b": "20 %",
+            "c": "95 %",
+            "d": "50 %"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "58)",
+        "pytanie": "Ciało jest izotropowe ze względu na jakąś własność",
+        "odpowiedzi": {
+            "a": "jeżeli nie zawiera pustek i porów (nieciągłości)",
+            "b": "jeżeli jego własności są we wszystkich miejscach takie same",
+            "c": "jeżeli jego własności są losowe",
+            "d": "jeżeli wartość tej własności nie zmienia się z kierunkiem lub orientacją"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "59)",
+        "pytanie": "Zgodnie z definicją naprężenie",
+        "odpowiedzi": {
+            "a": "w układzie SI wyrażane jest w jednostce N/m3",
+            "b": "jest wektorem, którego kierunek i zwrot jest przeciwny do kierunku i zwrotu działającej siły ze- wnętrznej",
+            "c": "jest zawsze równe wartości siły podzielonej przez pole powierzchni, na którą działa siła",
+            "d": "nie zależy od wartości działającej siły zewnętrznej"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "60)",
+        "pytanie": "Odkształcenie, zgodnie z definicją, jest",
+        "odpowiedzi": {
+            "a": "nazywane postaciowym, jeżeli rozpatrywane jest w kierunku działającego naprężenia rozciągają- cego",
+            "b": "parametrem opisującym ilościowo zmiany wymiarów materiału na skutek działania siły zewnętrznej",
+            "c": "wielkością niezależną od geometrii materiału i dlatego nie posiada wymiaru",
+            "d": "w układzie SI wyrażane w jednostce Pa"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "61)",
+        "pytanie": "Odkształcenie rzeczywiste (logarytmiczne), εr",
+        "odpowiedzi": {
+            "a": "jest addytywne i dlatego powinno być stosowane w wieloetapowych procesach przeróbki plastycz- nej (np. walcowania)",
+            "b": "jest wielkością wyrażaną w N/m3",
+            "c": "jest wielkością wyznaczaną w statycznej próbie jednoosiowego rozciągania i służy do obliczenia podstawowych własności wytrzymałościowych",
+            "d": "w przypadku jednoosiowego rozciągania jest zawsze większe niż odkształcenie nominalne"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "62)",
+        "pytanie": "Wartość modułu sprężystości podłużnej (modułu Young",
+        "odpowiedzi": {
+            "a": "a) nie zależy od natury wiązań między atomami i struktury krystalicznej materiału",
+            "b": "jest miarą oporu stawianego przez sąsiednie atomy podczas zwiększania miedzy nimi odległości",
+            "c": "dla materiałów metalicznych szybko rośnie ze wzrostem temperatury",
+            "d": "charakteryzuje jedynie czyste metale"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "63)",
+        "pytanie": "Statyczna próba jednoosiowego rozciągania",
+        "odpowiedzi": {
+            "a": "opisuje za pomocą wykresu zależność odkształcenia od naprężenia dla sił działających w dwóch wzajemnie prostopadłych kierunkach",
+            "b": "jest podstawowym testem pozwalającym na wyznaczenie charakterystyk wytrzymałościowych dla złożonego stanu naprężenia",
+            "c": "pozwala na określenie wyłącznie własności wytrzymałościowych materiałów",
+            "d": "umożliwia określenie podstawowych charakterystyk wytrzymałościowych i plastycznych materiałów inżynierskich"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "64)",
+        "pytanie": "Współczynnik (wykładnik) umocnienia odkształceniowego z zależności Ludwika – Hollomona",
+        "odpowiedzi": {
+            "a": "nigdy nie zależy od natury materiału i temperatury",
+            "b": "przyjmuje wyłącznie wartości z zakresu 2 ÷ 5",
+            "c": "jest liczbowo równy rzeczywistemu odkształceniu równomiernemu εr w próbie jednoosiowego roz- ciągania",
+            "d": "jest stałą materiałową określającą stosunek odkształcenia poprzecznego do podłużnego w zakresie sprężystym"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "65)",
+        "pytanie": "Statyczna metoda pomiaru twardości (Vickers",
+        "odpowiedzi": {
+            "a": "a) w skali A wykorzystuje diamentowy stożek o kącie wierzchołkowym 120° (tzw. wgłębnik Brale’a)",
+            "b": "stosowana jest wyłącznie dla materiałów o wysokiej ciągliwości jak polimery i część plastycznych metali kolorowych",
+            "c": "polega na wgnieceniu w powierzchnię badanego materiału czworobocznego foremnego ostrosłupa diamentowego o kącie wierzchołkowym 136° pod zadanym statycznym obciążeniem",
+            "d": "jako jedyna z metod statycznych zaliczana jest do nieniszczących"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "66)",
+        "pytanie": "Dyslokacje w strukturach materiałów metalicznych",
+        "odpowiedzi": {
+            "a": "utrudniają procesy umocnienia (wzrost wytrzymałości)",
+            "b": "nie są wystarczająco mobilne aby wpływać na własności mechaniczne",
+            "c": "przemieszczają się jedynie w płaszczyznach z rodziny {001}",
+            "d": "ułatwiają odkształcenie trwałe"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "67)",
+        "pytanie": "Czynniki sprzyjające odkształceniu przez bliźniakowanie to",
+        "odpowiedzi": {
+            "a": "drobne ziarno",
+            "b": "mała szybkość odkształcania",
+            "c": "niska wartość EBU w metalach o strukturze RSC",
+            "d": "wysoka temperatura"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "68)",
+        "pytanie": "Miarą anizotropii normalnej jest współczynnik anizotropii Lankforda (r) nazywany również współ- czynnikiem anizotropii normalnej, który",
+        "odpowiedzi": {
+            "a": "dla stali głębokotłocznej nie powinien przekraczać wartości 1,5",
+            "b": "jest definiowany jako stosunek rzeczywistego odkształcenia szerokości do rzeczywistego odkształ- cenia grubości blachy",
+            "c": "jest liczbowo równy wartości odkształcenia równomiernego w próbie rozciągania, tzn. odkształce- nia do momentu pojawienia się szyjki",
+            "d": "jest proporcjonalny do wartości generowanego naprężenia nominalnego"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "69)",
+        "pytanie": "Wysokość słupa cieczy w u-rurce wskazuje",
+        "odpowiedzi": {
+            "a": "nadciśnienie względem ciśnienia p",
+            "b": "nadciśnienie względem ciśnienia atmosferycznego p ot",
+            "c": "podciśnienie względem ciśnienia atmosferycznego p ot",
+            "d": "ciśnienie absolutne"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "70)",
+        "pytanie": "Skład mieszaniny można podać przy pomocy udziału objętościowego, molowego i masowego. Która z poniższych odpowiedzi jest poprawna?",
+        "odpowiedzi": {
+            "a": "Udział molowy jest równy udziałowi objętościowemu",
+            "b": "Udział masowy jest równy udziałowi molowemu",
+            "c": "Udział objętościowy jest równy udziałowi masowemu",
+            "d": "Wszystkie udziały są sobie liczbowo równe"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "71)",
+        "pytanie": "Przedstawiony na rysunku obieg 1-2-3-4-1 jest odwzorowaniem obiegu termodynamicznego",
+        "odpowiedzi": {
+            "a": "silnika Stirlinga",
+            "b": "silnika Carnota",
+            "c": "pompy ciepła",
+            "d": "ziębiarki"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "72)",
+        "pytanie": "Pompa ciepła pobiera z gruntu 6 kW i do swego napędu potrzebuje 3 kW. Moc grzejna tej pompy wynosi",
+        "odpowiedzi": {
+            "a": "3 kW",
+            "b": "6 kW",
+            "c": "18 kW",
+            "d": "9 kW"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "73)",
+        "pytanie": "Stechiometryczna ilość tlenu konieczna do zupełnego i całkowitego spalenia 1kmol pierwiastka węgla C wynosi",
+        "odpowiedzi": {
+            "a": "1 m3.",
+            "b": "1 kmol",
+            "c": "12 kmol",
+            "d": "12 m3."
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "74)",
+        "pytanie": "Dla paliwa zawierającego wodór relacja pomiędzy wartością opałową Q paliwa a jego ciepłem spalania w Q jest następująca: c",
+        "odpowiedzi": {
+            "a": "Q <Q w c",
+            "b": "Q >Q w c",
+            "c": "Q =Q w c",
+            "d": "wszystkie trzy relacje są możliwe; zależy to od ilości wodoru w paliwie"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "75)",
+        "pytanie": "Typowe wartości stosunku nadmiaru powietrza spalania dla paliw gazowych to:",
+        "odpowiedzi": {
+            "a": "1,05÷1,1",
+            "b": "0,8÷0,9",
+            "c": "1,4÷1,6",
+            "d": "2,0÷2,5"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "76)",
+        "pytanie": "Wymiana ciepła w próżni może zachodzić w wyniku:",
+        "odpowiedzi": {
+            "a": "przewodzenia",
+            "b": "konwekcji",
+            "c": "promieniowania",
+            "d": "wszystkich wymienionych mechanizmów transportu ciepła"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "77)",
+        "pytanie": "Gdy promieniowanie pada na ciało szare o skończonej objętości to:",
+        "odpowiedzi": {
+            "a": "część energii jest pochłonięta, a część przepuszczona",
+            "b": "cała energia jest pochłonięta przez ciało szare",
+            "c": "część energii jest pochłonięta a część odbita,",
+            "d": "cała energia jest odbita"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "78)",
+        "pytanie": "Transport masy może występować jednocześnie z transportem ciepła w przypadku, gdy wymiana ciepła przebiega na drodze:",
+        "odpowiedzi": {
+            "a": "promieniowania",
+            "b": "przewodzenia",
+            "c": "konwekcji",
+            "d": "wszystkich trzech mechanizmów wymiany ciepła"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "79)",
+        "pytanie": "Mosiądz to stop miedzi z:",
+        "odpowiedzi": {
+            "a": "cynkiem",
+            "b": "krzemem",
+            "c": "cyną",
+            "d": "manganem"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "80)",
+        "pytanie": "Odpuszczanie stali polega na:",
+        "odpowiedzi": {
+            "a": "wyżarzaniu stali odkształconej plastycznie",
+            "b": "wyżarzaniu stali w celu uzyskania drobnego ziarna",
+            "c": "wyżarzaniu stali zahartowanej",
+            "d": "wyżarzaniu w celu ujednorodnienia składu chemicznego"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "81)",
+        "pytanie": "Pierwiastkiem, który rozpuszczony w roztworze stałym przenosi zdolność do samopasywacji na stopy z żelazem (od określonej zawartości) jest:",
+        "odpowiedzi": {
+            "a": "chrom",
+            "b": "nikiel",
+            "c": "mangan",
+            "d": "molibden"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "82)",
+        "pytanie": "Produktem przemiany eutektoidalnej przy chłodzeniu stali jest:",
+        "odpowiedzi": {
+            "a": "austenit",
+            "b": "perlit",
+            "c": "ferryt",
+            "d": "ledeburyt"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "83)",
+        "pytanie": "Najkrótsza definicja martenzytu to:",
+        "odpowiedzi": {
+            "a": "jest to roztwór stały węgla w żelazie γ (gamma)",
+            "b": "jest to odmiana alotropowa żelaza",
+            "c": "jest to przesycony roztwór stały węgla w żelazie α (alfa)",
+            "d": "jest to produkt przemiany dyfuzyjnej austenitu"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "84)",
+        "pytanie": "Stale stosowane na duże konstrukcje wymagające spawania (mosty, budynki, rurociągi itp.) powinny zawierać:",
+        "odpowiedzi": {
+            "a": "możliwie dużo węgla",
+            "b": "dowolną ilość węgla",
+            "c": "mało węgla",
+            "d": "możliwie dużo pierwiastków zwiększających hartowność"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "85)",
+        "pytanie": "Normalizowanie to obróbka cieplna stali prowadząca do:",
+        "odpowiedzi": {
+            "a": "otrzymania drobnego, równoosiowego ziarna",
+            "b": "usunięcia naprężeń hartowniczych",
+            "c": "rekrystalizacji materiału odkształconego na zimno",
+            "d": "uzyskania bainitu dolnego"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "86)",
+        "pytanie": "Efekt twardości wtórnej wykorzystuje się:",
+        "odpowiedzi": {
+            "a": "w stopach aluminium utwardzanych wydzieleniowo",
+            "b": "w stalach na łożyska toczne",
+            "c": "w stalach szybkotnących",
+            "d": "w blachach na karoserie samochodowe"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "87)",
+        "pytanie": "Która z faz jest najtwardsza?",
+        "odpowiedzi": {
+            "a": "cementyt",
+            "b": "ferryt",
+            "c": "austenit",
+            "d": "ferryt wysokotemperaturowy (ferryt delta)"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "88)",
+        "pytanie": "Który z poniższych wzorów opisuje regułę faz Gibbsa w warunkach stałego ciśnienia?",
+        "odpowiedzi": {
+            "a": "s = n – f + 1",
+            "b": "s = n – f + 2",
+            "c": "s = n + f – 2",
+            "d": "s = n + f – 2"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "90)",
+        "pytanie": "Ledeburyt to:",
+        "odpowiedzi": {
+            "a": "mieszanina eutektyczna austenitu i cementytu",
+            "b": "mieszanina eutektyczna ferrytu i austenitu",
+            "c": "mieszanina eutektoidalna austenitu i cementytu",
+            "d": "mieszanina eutektoidalna ferrytu i cementytu"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "91)",
+        "pytanie": "Stopów aluminium nie można hartować ponieważ:",
+        "odpowiedzi": {
+            "a": "stopy aluminium nie zawierają węgla",
+            "b": "aluminium ma zbyt niską temperaturę topnienia",
+            "c": "aluminium ma zbyt wysoką temperaturę topnienia",
+            "d": "aluminium nie ma odmian alotropowych"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "92)",
+        "pytanie": "Podstawowymi pierwiastkami stopowymi w stalach szybkotnących są:",
+        "odpowiedzi": {
+            "a": "chrom, mangan, krzem, kobalt",
+            "b": "nikiel, mangan, krzem, niob",
+            "c": "mangan, krzem, aluminium, niob",
+            "d": "chrom, molibden, wolfram, wanad"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "93)",
+        "pytanie": "Duże ziarno w materiałach metalicznych jest korzystne gdy materiał jest stosowany w:",
+        "odpowiedzi": {
+            "a": "warunkach zmiennych naprężeń",
+            "b": "niskich temperaturach",
+            "c": "podwyższonej temperaturze",
+            "d": "środowisku agresywnym korozyjnie"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "94)",
+        "pytanie": "Odkształceniu przez bliźniakowanie sprzyja:",
+        "odpowiedzi": {
+            "a": "wysoka temperatura odkształcania",
+            "b": "niska temperatura odkształcania",
+            "c": "drobne ziarno odkształcanego materiału",
+            "d": "grube ziarno odkształcanego materiału"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "95)",
+        "pytanie": "Przekładnia o przełożeniu większym niż jeden (reduktor):",
+        "odpowiedzi": {
+            "a": "Zwiększa prędkość obrotową",
+            "b": "Zwiększa moc",
+            "c": "Zwiększa moment obrotowy",
+            "d": "Zachowuje stałe parametry"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "96)",
+        "pytanie": "Gwinty metryczne stosowane w połączeniach śrubowych cechuje:",
+        "odpowiedzi": {
+            "a": "Kąt zarysu gwintu 30 stopni",
+            "b": "Trapezowy gwint zarysu gwintu",
+            "c": "Wysoka sprawność",
+            "d": "Samohamowność"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "97)",
+        "pytanie": "Przekładnie zębate:",
+        "odpowiedzi": {
+            "a": "Cechuje sprawność poniżej 90%",
+            "b": "Nie wymagają smarowania",
+            "c": "Przenoszą dużą moc przy małych rozmiarach",
+            "d": "Cechuje mała trwałość"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "98)",
+        "pytanie": "Pozorny współczynnik tarcia w połączeniu śrubowym:",
+        "odpowiedzi": {
+            "a": "Nie wpływa na moment dokręcenia śruby",
+            "b": "Zależy od współczynnika tarcia i kąta zarysu gwintu",
+            "c": "Zależy od gatunku stali",
+            "d": "Jest tym mniejszy im większy jest kąt zarysu gwintu"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "99)",
+        "pytanie": "Łożyska toczne kulkowe:",
+        "odpowiedzi": {
+            "a": "Przenoszą tylko obciążenia promieniowe",
+            "b": "Mogą przenosić obciążenia promieniowe i osiowe",
+            "c": "Są zawsze uszczelnione i smarowane smarem stałym",
+            "d": "Ich trwałość nie zależy od prędkości obrotowej"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "100)",
+        "pytanie": "Wskaż wzór związku, który będzie powodował, że gleba będzie miała odczyn obojętny (ok. pH=7):",
+        "odpowiedzi": {
+            "a": "CH COONa 3",
+            "b": "NH Cl 4",
+            "c": "K CO 2 3",
+            "d": "NH NO 4 2"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "101)",
+        "pytanie": "Tlenki Al O , Cl O , SiO , MgO uporządkowane zgodnie z ich rosnącym charakterem kwasowym to: 2 3 2 7 2",
+        "odpowiedzi": {
+            "a": "MgO, Al2O , SiO2 , Cl2O2",
+            "b": "Cl O , MgO, Al O , SiO",
+            "c": "Al O , MgO, SiO , Cl ",
+            "d": "SiO , MgO, Al O , Cl O"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "102)",
+        "pytanie": "Grupa metali, która NIE wypiera wodoru z kwasu, to:",
+        "odpowiedzi": {
+            "a": "Pt, Ag, Au",
+            "b": "Ca, Ni, Sn",
+            "c": "Cu, Al, Be",
+            "d": "Sb, Mn, Hg"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "103)",
+        "pytanie": "Schemat ogniwa Daniella to:",
+        "odpowiedzi": {
+            "a": "Zn/ZnSO //CaSO /Ca 4 4",
+            "b": "Zn/ZnSO //CuSO /Cu 4 4",
+            "c": "Pt/FeCl //KI/Pt 3",
+            "d": "Al/AlCl //CrCl /Cr 3 3"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "104)",
+        "pytanie": "Która informacja najlepiej charakteryzuje katalizator:",
+        "odpowiedzi": {
+            "a": "substancja, która bierze udział w reakcji, wpływa na zmianę jej szybkości (na osiągnięcie stanu rów- nowagi), ale podczas rozpadu kompleksu aktywnego zostaje na końcu procesu zregenerowana",
+            "b": "nie wpływa na zmianę energii aktywacji",
+            "c": "stanowi zawsze odrębną fazę niż substraty",
+            "d": "jeden katalizator katalizuje tylko jeden rodzaj reakcji"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "105)",
+        "pytanie": "Która grupa związków to wyłącznie elektrolity:",
+        "odpowiedzi": {
+            "a": "Pb(NO ) , K SO , HCl 3 2 2 4",
+            "b": "NaCl, CaCO , C H O 3 3 8 3",
+            "c": "KNO , H SO , C H 3 2 4 2 6",
+            "d": "CH COONa, Mg(OH) , C H O 3 2 6 12 6"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "106)",
+        "pytanie": "Węglowodory, które ulegają reakcjom polimeryzacji i przyłączania (na przykład bromu i chloru) to:",
+        "odpowiedzi": {
+            "a": "alkiny i alkany",
+            "b": "alkeny i alkany",
+            "c": "cykloalkany i alkeny",
+            "d": "alkeny i alkiny"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "107)",
+        "pytanie": "Tłuszcze powstają w wyniku reakcji:",
+        "odpowiedzi": {
+            "a": "gliceryny i glukozy",
+            "b": "aminokwasów i kwasów tłuszczowych",
+            "c": "wyższych kwasów tłuszczowych i gliceryny",
+            "d": "kwasów tłuszczowych i glukozy."
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "108)",
+        "pytanie": "Zdolność mydeł do usuwania brudu związana jest z:",
+        "odpowiedzi": {
+            "a": "słabą rozpuszczalnością mydła w wodzie",
+            "b": "dużą masą cząsteczkową mydła",
+            "c": "obecnością silnie polarnej grupy karboksylowej oraz długiego niepolarnego łańcucha węglowego",
+            "d": "obecnością atomu metalu w grupie karboksylowej."
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "109)",
+        "pytanie": "Jakość to:",
+        "odpowiedzi": {
+            "a": "możliwie wysokie wartości własności wyrobu",
+            "b": "stopień spełnienia wymagań co do własności wyrobu",
+            "c": "zerowe prawdopodobieństwo otrzymania wyrobu niezgodnego w wymaganiami",
+            "d": "zdolność wyrobu do spełniania wszystkich powierzonych mu funkcji przez wymagany czas i w okre- ślonych warunkach"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "110)",
+        "pytanie": "Rozkład empiryczny:",
+        "odpowiedzi": {
+            "a": "przedstawia skumulowaną częstość występowania wartości zmiennej losowej w podziale na klasy",
+            "b": "można wykorzystać do oceny normalności rozkładu",
+            "c": "powinien mieć jak najwięcej klas, w celu szczegółowego zobrazowania zmienności",
+            "d": "jest graficzną formą szeregu szczegółowego"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "111)",
+        "pytanie": "Próbka reprezentatywna, to próbka:",
+        "odpowiedzi": {
+            "a": "odpowiednio liczna i losowa",
+            "b": "o liczności co najmniej 30 elementów",
+            "c": "w której każda wartość zmiennej pojawia się jednakowo często",
+            "d": "w której nie pojawiają się wartości odstające"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "112)",
+        "pytanie": "Podczas wnioskowania statystycznego:",
+        "odpowiedzi": {
+            "a": "uogólnia się wyniki badania próby reprezentatywnej na zbiorowość statystyczną",
+            "b": "badanie populacji statystycznej przeprowadza się w oparciu o wartości cechy wszystkich jednostek tej populacji",
+            "c": "możliwość popełnienia błędu statystycznego polegającego na przyjęciu hipotezy fałszywej jest równa założonemu poziomowi istotności",
+            "d": "możliwość popełnienia błędu statystycznego polegającego na odrzuceniu hipotezy prawdziwej jest zerowa"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "113)",
+        "pytanie": "W statystycznej kontroli odbiorczej:",
+        "odpowiedzi": {
+            "a": "granica akceptowalnej jakości (AQL) zależy od liczności partii produkcyjnej i ogólnego poziomu kon- troli",
+            "b": "w przypadku planu dwustopniowego decyzja o zgodności partii produkcyjnej podejmowana jest po plan dwustopniowy jest korzystniejszy niż plan jednostopniowy, jeśli chodzi o średnią liczność bada- nych sztuk wyrobu",
+            "c": "badaniu drugiej próbki",
+            "d": "badaniu podlegają wszystkie jednostki wyrobu znajdujące się w partii produkcyjnej"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "114)",
+        "pytanie": "Zdolność jakościowa procesu:",
+        "odpowiedzi": {
+            "a": "jest tym wyższa im wyższe są wymagania klienta",
+            "b": "można ją zwiększyć poszerzając granice specyfikacji",
+            "c": "w sposób ilościowy informuje o jakości procesu",
+            "d": "długoterminowa jest liczona w czasie dłuższym niż krótkoterminowa"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "115)",
+        "pytanie": "Czytanie karty kontrolnej polega na:",
+        "odpowiedzi": {
+            "a": "identyfikacji punktów poza liniami kontrolnymi i nieprzypadkowych układów punktów",
+            "b": "identyfikacji punktów poza liniami kontrolnymi, które zawsze świadczą o rozregulowaniu procesu",
+            "c": "sprawdzeniu czy proces mieści się w granicach specyfikacji",
+            "d": "dopasowywaniu położenia linii kart kontrolnych do zmian procesu po działaniach doskonalących"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "116)",
+        "pytanie": "Frakcja realizacji poza granicami specyfikacji określa:",
+        "odpowiedzi": {
+            "a": "szansę pojawienia się elementu niegodnego w procesie",
+            "b": "procent jednostek niezgodnych podczas statystycznej kontroli odbiorczej",
+            "c": "liczbę elementów niezgodnych znalezionych w próbce",
+            "d": "szansę pojawienia się sygnału na karcie kontrolnej"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "117)",
+        "pytanie": "Informacja o postaci rozkładu cechy może być uzyskana:",
+        "odpowiedzi": {
+            "a": "na podstawie wizualnej oceny rozkładu empirycznego skonstruowanego w oparciu o małą próbę",
+            "b": "przez estymację wartości oczekiwanej i odchylenia standardowego",
+            "c": "przy użyciu graficznego testu normalności",
+            "d": "przy użyciu wybranego parametrycznego testu istotności"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "118)",
+        "pytanie": "W teście istotności:",
+        "odpowiedzi": {
+            "a": "wartość funkcji testowej poza obszarem krytycznym oznacza, że przyjmujemy hipotezę zerową",
+            "b": "wartość funkcji testowej w obszarze krytycznym oznacza, że hipoteza zerowa została błędnie sfor- mułowana",
+            "c": "wartość funkcji testowej zależy od liczności próbki",
+            "d": "obszar krytyczny testu nie zależy od założonego poziomu istotności"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "119)",
+        "pytanie": "Miary rozrzutu to:",
+        "odpowiedzi": {
+            "a": "wariancja, odchylenie standardowe, rozstęp, ruchomy rozstęp",
+            "b": "wariancja, dominanta, mediana, współczynnik zmienności",
+            "c": "wariancja, rozstęp, współczynnik korelacji, odchylenie standardowe",
+            "d": "wariancja, kowariancja, współczynnik determinacji, moda"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "120)",
+        "pytanie": "Co to jest proszek?",
+        "odpowiedzi": {
+            "a": "Materiał sypki złożony z cząstek o wymiarach liniowych nie większych niż 0,1 mm",
+            "b": "Materiał sypki złożony z cząstek o wymiarach liniowych nie większych niż 1 mm",
+            "c": "Materiał sypki złożony z cząstek o wymiarach liniowych większych niż 1 mm",
+            "d": "Materiał sypki złożony z cząstek o wymiarach liniowych niż 0,01 mm."
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "121)",
+        "pytanie": "Własności technologiczne proszku to?",
+        "odpowiedzi": {
+            "a": "zawartość substancji organicznych w proszku",
+            "b": "sypkość, gęstość nasypowa, gęstość nasypowa z usadem, zgęszczalność, formowalność",
+            "c": "skład chemiczny – w tym zawartość tlenu i zanieczyszczeń, piroforyczność, toksyczność, reaktyw- ność lub bierność chemiczna wobec różnych substancji",
+            "d": "gęstość, kształt cząstek, średnia wielkość cząstek, rozkład wielkości cząstek, powierzchnia właściwa"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "122)",
+        "pytanie": "Sypkość proszku to?",
+        "odpowiedzi": {
+            "a": "czas przesypywania się 50 g proszku przez otwór o znormalizowanych wymiarach",
+            "b": "powierzchnia stożka utworzonego przez 50 g proszku luźno zasypanego z wolumetru Scotta na gładką powierzchnię szklanej płyty",
+            "c": "kąt zsypu proszku luźno zasypanego z wolumetru Scotta na gładką powierzchnię szklanej płyty",
+            "d": "czas przesypywanie się 50 g proszku przez otwór o średnicy 1 mm"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "123)",
+        "pytanie": "Co to jest środek poślizgowy?",
+        "odpowiedzi": {
+            "a": "materiał termoplastyczny stosowany w celu zmiany wymiaru lub kształtu cząstki",
+            "b": "substancja dodawana do proszku w celu zmniejszenia tarcia pomiędzy cząstkami proszku i pomię- dzy wypraską a powierzchniami matrycy",
+            "c": "substancja dodawana do proszku w celu większych cząstek proszku i jego lepszej sypkości",
+            "d": "substancja dodawana do proszku w celu zwiększenia wytrzymałości wypraski lub zapobiegania pyle- niu i samosegregacji proszku jak również w celu jego uplastycznienia"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "124)",
+        "pytanie": "Frakcja ziarnowa to?",
+        "odpowiedzi": {
+            "a": "stosunek danej frakcji do masy próbki proszku",
+            "b": "masa proszku odpowiadająca określonej klasie ziarnowej",
+            "c": "frakcja obejmująca cząstki o wielkościach poniżej najmniejszej wielkości cząstek możliwej do ozna- czenia daną metodą",
+            "d": "przedział w ciągu wielkości cząstek"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "125)",
+        "pytanie": "Co to jest prasowanie jednostronne?",
+        "odpowiedzi": {
+            "a": "metoda prasowania, w której wytwarza się równocześnie dwie lub więcej kształtek w oddzielnych otworach matrycy",
+            "b": "prasowanie, w czasie którego proszek znajduje się w nieruchomej matrycy między dwoma stem- plami, z których tylko jeden przesuwa się, a drugi pozostaje nieruchomy",
+            "c": "prasowanie, w czasie którego dłuższa oś wypraski jest równoległa do kierunku ruchu stempli",
+            "d": "prasowanie, w czasie którego proszek znajduje się w matrycy między dwoma stemplami, przesuwa- jącymi się w przeciwnym kierunku względem otworu matrycy"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "126)",
+        "pytanie": "Co to jest gęstość nasypowa z usadem?",
+        "odpowiedzi": {
+            "a": "stosunek objętości niesprasowanego proszku do objętości wypraski, której wymiary zmierzono po wypchnięciu z matrycy",
+            "b": "stosunek masy proszku zasypanego do pojemnika w ustalonych warunkach do najmniejszej objęto- ści jaką zajmą jego cząstki w efekcie wstrząsania",
+            "c": "stosunek 50 g proszku zasypanego w ustalonych warunkach do zajmowanej przez niego objętości",
+            "d": "stosunek masy proszku zasypanego w ustalonych warunkach do zajmowanej przez niego objętości"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "127)",
+        "pytanie": "Proces spiekania to?",
+        "odpowiedzi": {
+            "a": "wypalanie półwyrobów uformowanych z proszków",
+            "b": "zespół aktywowanych cieplnie procesów fizycznych i chemicznych związanych z transportem mate- rii, zmianami chemicznymi i rozwojem struktury",
+            "c": "utrwalanie kształtu półwyrobów uformowanych z proszków",
+            "d": "nagrzewanie umieszczonej w szczelnej komorze formie wypełnionej proszkiem"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "128)",
+        "pytanie": "Mechanizmy transportu materii w trakcie spiekania w stanie stałym to:",
+        "odpowiedzi": {
+            "a": "wspinanie się dyslokacji, zdrowienie i rekrystalizacja",
+            "b": "dyfuzja powierzchniowa, dyfuzja objętościowa, dyfuzja po granicach ziarn, parowanie i kondensa- cja, płynięcie plastyczne, płynięcie lepkościowe",
+            "c": "mechanizmy odpowiedzialne za pełzanie",
+            "d": "bliźniakowanie aktywowane termicznie"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "129)",
+        "pytanie": "Atmosfery obojętne podczas spiekania to?",
+        "odpowiedzi": {
+            "a": "wodór, tlenek węgla",
+            "b": "zdysocjowany amoniak, azot",
+            "c": "próżnia, argon, hel",
+            "d": "próżnia, wodór"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "130)",
+        "pytanie": "Węgliki spiekane należą do grupy materiałów spiekanych?",
+        "odpowiedzi": {
+            "a": "materiałów konstrukcyjnych specjalnego przeznaczenia",
+            "b": "narzędziowych",
+            "c": "masowych na bazie żelaza",
+            "d": "ceramicznych"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "131)",
+        "pytanie": "Proces technologiczny wytwarzania materiałów na drodze metalurgii proszków to:",
+        "odpowiedzi": {
+            "a": "otrzymywanie proszku, przygotowanie mieszanki proszków, formowanie, spiekanie, obróbka wy- kańczająca",
+            "b": "otrzymywanie proszków, tworzenie gęstwy, odlewanie, spiekanie, kontrola jakości",
+            "c": "przygotowanie proszków, przygotowanie masy roboczej, formowanie, spiekanie, wykańczanie, kon- trola jakości",
+            "d": "otrzymywanie proszku, spiekanie, obróbka wykańczająca"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "132)",
+        "pytanie": "W programie AutoCAD polilinia to:",
+        "odpowiedzi": {
+            "a": "polecenie pozwalające na zamianę linii segmentowych na ciągłe - jednoobiektowe",
+            "b": "zestawienie linii równoległych poziomych",
+            "c": "zestawienie linii równoległych pionowych",
+            "d": "polecenie pozwalające na zamianę linii ciągłych na segmentowe"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "133)",
+        "pytanie": "W programie AutoCAD operacje boolowskie to:",
+        "odpowiedzi": {
+            "a": "pozwalają na określenie parametrów fizycznych",
+            "b": "wyznaczają całkowitą powierzchnię obiektów bryłowych",
+            "c": "pozwalają na sumowanie, wyznaczenie różnic i części wspólnych dla obiektów bryłowych",
+            "d": "wyznaczają całkowitą objętość obiektów bryłowych"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "134)",
+        "pytanie": "W programie SOLIDWORKS znak „-” przy nazwie szkicu w drzewie operacji przy budowie części oznacza że:",
+        "odpowiedzi": {
+            "a": "szkic jest niedodefiniowany",
+            "b": "szkic jest zdefiniowany",
+            "c": "szkic pochodzi z rzutowania elementów krawędzi już istniejącego modelu",
+            "d": "szkic pochodzi z rzutowania elementów krawędzi już istniejącej figury zamkniętej"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "135)",
+        "pytanie": "W programie AutoCAD skalowanie w obszarze modelu:",
+        "odpowiedzi": {
+            "a": "przybliża obiekty bez zmiany jego wymiarów",
+            "b": "nie zmienia wielkości obiektów",
+            "c": "zmienia jedynie wielkości rzutni",
+            "d": "zmienia wymiary skalowanych obiektów"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "136)",
+        "pytanie": "W programie AutoCAD polecenie „Szyk” pozwala na:",
+        "odpowiedzi": {
+            "a": "uporządkowanie układu warstw",
+            "b": "zmianę powłoki modelu poprzez przypisanie tekstury",
+            "c": "uporządkowanie wybranych elementów lub operacji w szkicu lub modelu w układzie kołowym lub prostokątnym",
+            "d": "uporządkowanie rzutni"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "137)",
+        "pytanie": "W programie AutoCAD polecenie LUW pozwala na:",
+        "odpowiedzi": {
+            "a": "ocenę wielkości budowanych obiektów 3D",
+            "b": "lokalizację punktów charakterystycznych obiektów 3D",
+            "c": "zmianę płaszczyzny konstrukcyjnej",
+            "d": "określenie parametrów fizycznych obiektów bryłowych"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "138)",
+        "pytanie": "W programie AutoCAD położenie płaszczyzny konstrukcyjnej można zmienić poprzez:",
+        "odpowiedzi": {
+            "a": "zmianę położenia modelu",
+            "b": "wskazanie dowolnej powierzchni modelu",
+            "c": "zmianę położenia płaszczyzny XY",
+            "d": "wskazanie dowolnej krawędzi modelu"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "139)",
+        "pytanie": "Do podstawowych operacji kucia swobodnego należą:",
+        "odpowiedzi": {
+            "a": "wydłużanie i nagniatanie",
+            "b": "spęczanie i wydłużanie",
+            "c": "spęczanie i kucie w wykroju wydłużającym",
+            "d": "wydłużanie i obcinanie wypływki"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "140)",
+        "pytanie": "Maszynami stosowanymi w procesach kucia swobodnego są",
+        "odpowiedzi": {
+            "a": "prasy hydrauliczne, młoty sprężarkowe, młoty parowo - powietrzne",
+            "b": "prasy korbowe, zgniatacze, prasy typu MAXI",
+            "c": "prasy hydrauliczne, walcarki kuźnicze, zgniatacze",
+            "d": "zbijacze zgorzeliny, giętarki, młoty parowo - powietrzne"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "141)",
+        "pytanie": "Wypływka podczas kucia w matrycach otwartych między innymi pełni następujące funkcje:",
+        "odpowiedzi": {
+            "a": "zabezpiecza matryce przed bezpośrednim uderzeniem i magazynuje nadmiar materiału.",
+            "b": "powoduje odcinanie nadmiaru materiału i chroni matryce przed przegrzaniem",
+            "c": "wciska materiał z powrotem do środka i zapobiega zakuciom",
+            "d": "zmniejsza siły konieczne do odkształcenia i zabezpiecza matryce"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "142)",
+        "pytanie": "Stosowane są metody wyciskania:",
+        "odpowiedzi": {
+            "a": "wstępne, pośrednie i wykańczające",
+            "b": "współbieżne, przeciwbieżne i boczne",
+            "c": "proste, półproste i złożone",
+            "d": "wzdłużne, poprzeczne i pod kątem"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "143)",
+        "pytanie": "Materiałami stosowanym do wyrobu ciągadeł są:",
+        "odpowiedzi": {
+            "a": "stale narzędziowe do pracy na gorąco, stopy miedzi, polimery",
+            "b": "stale narzędziowe, stopy tytanu, polimery",
+            "c": "brązy, stopy niklu, węgliki spiekane",
+            "d": "stale narzędziowe, węgliki spiekane, diament naturalny"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "144)",
+        "pytanie": "Plastyczność metali rośnie wraz z:",
+        "odpowiedzi": {
+            "a": "wzrostem temperatury",
+            "b": "spadkiem temperatury",
+            "c": "wzrostem współczynnika tarcia",
+            "d": "wzrostem naprężenia płynięcia materiału"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "145)",
+        "pytanie": "Kształtowanie objętościowe w procesach przeróbki plastycznej to proces w którym:",
+        "odpowiedzi": {
+            "a": "następuje zmiana kształtu przedmiotu (dwóch wymiarów) bez zamierzonej zmiany grubości (trze- ciego wymiaru)wzrostem współczynnika tarcia",
+            "b": "materiały kształtowane w ten sposób charakteryzują się dużym stosunkiem powierzchni do objęto- ści",
+            "c": "następuje przemieszczenie masy materiału powodujące zamierzoną zmianę wszystkich wymiarów kształtowanego przedmiotu,",
+            "d": "przeważa stan naprężeń rozciągających"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "146)",
+        "pytanie": "Główne zalety przeróbki plastycznej na zimno w stosunku do przeróbki na gorąco to:",
+        "odpowiedzi": {
+            "a": "lepsza dokładność, jakość powierzchni, wyższe tolerancje wymiarowe wyrobów",
+            "b": "niższe siły i naciski potrzebne do realizacji procesu",
+            "c": "brak umocnienia odkształceniowego",
+            "d": "brak ukierunkowania ziaren w materiale"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "147)",
+        "pytanie": "Tarcie procesach przeróbki plastycznej:",
+        "odpowiedzi": {
+            "a": "poprawia równomierność odkształcenia i jednorodność materiału",
+            "b": "obniża konieczne naciski potrzebne do odkształcenia",
+            "c": "warunkuje uchwycenie materiału przez walce w procesie walcowania",
+            "d": "odprowadza ciepło ze strefy odkształcenia"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "148)",
+        "pytanie": "Rury stalowe do zastosowań w energetyce to:",
+        "odpowiedzi": {
+            "a": "rury o strukturze silnie rozdrobnionej",
+            "b": "rury o małej odporności na pełzanie",
+            "c": "rury przeznaczone do pracy w warunkach wysokiego ciśnienia i temperatury",
+            "d": "rury o dużej udarności i odporności na zużycie ścierne"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "149)",
+        "pytanie": "Który proces jest jednym z wstępnych procesów wytwarzania rur bezszwowych:",
+        "odpowiedzi": {
+            "a": "formowanie na prasach w technologii UO",
+            "b": "formowanie w układach rolkowych",
+            "c": "walcowanie na alongatorze",
+            "d": "przebijanie na prasach"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "150)",
+        "pytanie": "Procesom walcowania na zimno towarzyszy efekt:",
+        "odpowiedzi": {
+            "a": "rekrystalizacji statycznej",
+            "b": "odsprężynowania powrotnego (springback)",
+            "c": "powstawania na powierzchni metalu „skórki pomarańczowej”",
+            "d": "zdrowienia dynamicznego struktury"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "151)",
+        "pytanie": "Wielkość H definiowaną jako H=U+pV nazywamy: (U energia wewnętrzna, p- ciśnienie, V- objętość)",
+        "odpowiedzi": {
+            "a": "Entalpia",
+            "b": "Entalpia swobodna",
+            "c": "Entropia",
+            "d": "Potencjał chemiczny"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "152)",
+        "pytanie": "Reakcja endotermiczna to reakcja zachodząca:",
+        "odpowiedzi": {
+            "a": "z dużą szybkością",
+            "b": "z pochłonięciem ciepła",
+            "c": "z wydzieleniem ciepła",
+            "d": "z małą szybkością"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "153)",
+        "pytanie": "Roztworem nazywamy układ",
+        "odpowiedzi": {
+            "a": "jednofazowy wieloskładnikowy",
+            "b": "wielofazowy jednoskładnikowy",
+            "c": "jednofazowy jednoskładnikowy",
+            "d": "wielofazowy wieloskładnikowy"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "154)",
+        "pytanie": "Stwierdzenie Prężność parcjalna pary rozpuszczalnika nad roztworem jest proporcjonalna do ułamka molowego rozpuszczalnika w fazie ciekłej, a współczynnikiem proporcjonalności jest pręż- ność pary nasyconej rozpuszczalnika w danej temperaturze nazywamy prawem",
+        "odpowiedzi": {
+            "a": "Henry'ego",
+            "b": "Raoulta",
+            "c": "Kirchhoffa",
+            "d": "Hessa"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "155)",
+        "pytanie": "Ciśnienie parcjalne składnika \"i\" gazu nad roztworem w warunkach równowagi wynosi p = 1 atm, a i jego potencjał standardowy μ0 . Potencjał chemiczny tego składnika w roztworze jest równy? i",
+        "odpowiedzi": {
+            "a": "μ0 i",
+            "b": "zero",
+            "c": "zależy od temperatury",
+            "d": "brak wszystkich danych dla ustalenia wartości"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "156)",
+        "pytanie": "Jeżeli substancje biorące udział w reakcji znajdują się w czasie jej przebiegu tylko w jednej fazie (np. same substancje gazowe), to taką reakcję nazywa się reakcją",
+        "odpowiedzi": {
+            "a": "heterofazową",
+            "b": "heterogeniczną",
+            "c": "homogeniczną",
+            "d": "egzotermiczną"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "157)",
+        "pytanie": "Dla I prawa Ficka zakładamy",
+        "odpowiedzi": {
+            "a": "zmienność współczynnika dyfuzji D w czasie",
+            "b": "zmienność gradientu stężeń w czasie",
+            "c": "stałość gradientu stężeń w czasie",
+            "d": "brak jest ograniczeń na stosowanie I prawa Ficka"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "158)",
+        "pytanie": "Tworzywa polimerowe dzielimy na:",
+        "odpowiedzi": {
+            "a": "monomery, elastomery, ceramery",
+            "b": "monomery, elastomery, wielomery",
+            "c": "termoplasty, duroplasty, elastomery",
+            "d": "duroplasty, gumy, makromery"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "159)",
+        "pytanie": "Kopolimery to:",
+        "odpowiedzi": {
+            "a": "rodzaj polimerów, których łańcuchy zawierają dwa lub więcej rodzajów polimerów",
+            "b": "rodzaj polimerów, których łańcuchy zawierają co najmniej trzy rodzaje merów",
+            "c": "rodzaj polimerów, których łańcuchy zawierają dwa lub więcej rodzajów merów",
+            "d": "rodzaj polimerów, których łańcuchy zawierają co najmniej trzy rodzaje polimerów"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "160)",
+        "pytanie": "Izotaktyczne polimery:",
+        "odpowiedzi": {
+            "a": "posiadają podstawniki ułożone we wszystkich merach jednakowo - tzn. występują zawsze po jednej stronie głównego łańcucha",
+            "b": "posiadają podstawniki ułożone we wszystkich merach naprzemiennie - tzn. występują zawsze po jednej i drugiej stronie głównego łańcucha",
+            "c": "posiadają podstawniki ułożone we wszystkich merach w parach - tzn. występują zawsze po jednej i drugiej stronie głównego łańcucha",
+            "d": "posiadają podstawniki ułożone ściśle naprzemiennie"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "161)",
+        "pytanie": "Do biopilimerów zaliczamy",
+        "odpowiedzi": {
+            "a": "Celulozę, kolagen, DNA",
+            "b": "Kertaynę, nylon, RNA",
+            "c": "Skrobię, kaprolaktan, jedwab",
+            "d": "Elastynę, chitynę, plexi"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "162)",
+        "pytanie": "Termoplasty",
+        "odpowiedzi": {
+            "a": "nie można przetwarzać wielokrotnie",
+            "b": "ulegaja zawsze depolimeryzacji",
+            "c": "są odmianą duroplastów",
+            "d": "można przetwarzać wielokrotnie"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "163)",
+        "pytanie": "Recyklingiem tworzyw sztucznych możemy podzielić na trzy grupy:",
+        "odpowiedzi": {
+            "a": "Materiałowy, energetyczny, mechaniczny",
+            "b": "Mechaniczny, chemiczny, energetyczny",
+            "c": "Spaleniowy, energetyczny, mechaniczny",
+            "d": "Chemiczny, koksowy, materiałowy"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "164)",
+        "pytanie": "Technologia recyklingu surowcowego oparta jest na",
+        "odpowiedzi": {
+            "a": "Depolimeryzacji",
+            "b": "Polimeryzacji",
+            "c": "Otrzymaniu polimeru macierzystego o większej masie cząsteczkowej",
+            "d": "Otrzymaniu momnomeru o większej masie cząsteczkowej"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "165)",
+        "pytanie": "Aby nadać polimerom odpowiednie właściwości mechaniczne i fizykochemiczne dodaje się do nich:",
+        "odpowiedzi": {
+            "a": "pireny",
+            "b": "antystatyki pobudzające elektryzowanie",
+            "c": "destabilizatory poprawiające zmiany termiczne",
+            "d": "zmiękczacze (plastyfikatory) ułatwiające przetwórstwo oraz modyfikujące mechaniczne i cieplne własności tworzyw"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "166)",
+        "pytanie": "W wyniku procesu elektroprzędzenia wytwarzamy:",
+        "odpowiedzi": {
+            "a": "cząsteczki",
+            "b": "nanorurki węglowe",
+            "c": "włókna",
+            "d": "proszki"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "167)",
+        "pytanie": "Który z wymienionych procesów obróbki powierzchniowej nie wprowadza zmian składu chemicznego w warstwie wierzchniej?",
+        "odpowiedzi": {
+            "a": "azotowanie",
+            "b": "laserowe stopowanie",
+            "c": "implantacja jonów",
+            "d": "hartowanie indukcyjne"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "168)",
+        "pytanie": "Podaj, w którym ze sposobów obróbki powierzchniowej do nagrzewania materiałów wykorzystuje się efekt cieplny związany z przepływem wirowych prądów elektrycznych wzbudzanych w materiałach przewodzących pod wpływem szybkozmiennego pola magnetycznego:",
+        "odpowiedzi": {
+            "a": "nagrzewanie elektronowe",
+            "b": "nagrzewanie laserowe",
+            "c": "nagrzewanie oporowe",
+            "d": "nagrzewanie indukcyjne"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "169)",
+        "pytanie": "Podaj, który z procesów obróbki powierzchniowej wymaga koniecznie stosowania próżni:",
+        "odpowiedzi": {
+            "a": "hartowanie plazmowe",
+            "b": "hartowanie elektronowe",
+            "c": "hartowanie laserowe",
+            "d": "hartowanie indukcyjne"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "170)",
+        "pytanie": "W celu zapewnienia stali wysokiej twardości i odporności na ścieranie:",
+        "odpowiedzi": {
+            "a": "stal nawęgla się po uprzednim jej zahartowaniu",
+            "b": "stali po nawęglaniu nie poddaje się dalszej obróbce",
+            "c": "stal po nawęglaniu hartuje się i nisko odpuszcza",
+            "d": "stal poddaje się procesowi przesycania przed nawęglaniem"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "171)",
+        "pytanie": "Metalizowanie dyfuzyjne polega na:",
+        "odpowiedzi": {
+            "a": "malowaniu farbami zawierającymi proszki metali",
+            "b": "obróbce cieplno-chemicznej w środowisku zawierającym pary metali",
+            "c": "elektrolitycznym osadzaniu warstw na powierzchni materiału",
+            "d": "osadzaniu powłok metalicznych techniką PVD"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "172)",
+        "pytanie": "Powłoki wytwarzane techniką laserowego natapiania połączone są z podłożem poprzez:",
+        "odpowiedzi": {
+            "a": "połączenie metalurgiczne",
+            "b": "połączenie siłami Van der Waalsa",
+            "c": "połączenie mechaniczne",
+            "d": "połączenie adhezyjne"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "173)",
+        "pytanie": "Azotowaniem nazywa się proces obróbki cieplno-chemicznej polegający na powierzchniowym nasycaniu azotem żelaza i jego stopów, który przeprowadza się najczęściej",
+        "odpowiedzi": {
+            "a": "w temperaturach 480-650°C w atmosferze gazowej, wytworzonej z częściowo dysocjowanego amoniaku, z dodatkami innych gazów",
+            "b": "w temperaturach 880-950oC w atmosferze gazowej, wytworzonej z częściowo dysocjowanego amoniaku, z dodatkami innych gazów",
+            "c": "w temperaturach 880-950oC w atmosferze gazowej, wytworzonej ze zjonizowanego azotu, z dodatkami innych gazów",
+            "d": "w temperaturach 480-650°C w atmosferze gazowej, wytworzonej ze zjonizowanego azotu, z dodatkami innych gazów"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "174)",
+        "pytanie": "Nawęglanie jest procesem dyfuzyjnego nasycania węglem wierzchnich warstw materiału części maszyn wykonanych ze stali:",
+        "odpowiedzi": {
+            "a": "zawartości węgla od 0,01 do 0,03%",
+            "b": "zawartości węgla od 0,1 do 0,9%",
+            "c": "zawartości węgla od 0,1 do 0,3%",
+            "d": "zawartości węgla od 0,7 do 1%"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "175)",
+        "pytanie": "Proces nawęglania polega na dyfuzyjnym nasycaniu węglem wierzchnich warstw stali w temperaturach:",
+        "odpowiedzi": {
+            "a": "wyższych od temperatury austenityzacji stali, najczęściej w przedziale 880-950oC, w ośrodkach wydzielających węgiel",
+            "b": "niższych od temperatury austenityzacji stali, najczęściej w przedziale 480-650°C, w ośrodkach wydzielających węgiel",
+            "c": "wyższych od temperatury austenityzacji stali, najczęściej w przedziale 480-650°C, w ośrodkach wydzielających węgiel",
+            "d": "niższych od temperatury austenityzacji stali, najczęściej w przedziale pomiędzy temperaturą Ac1 i Ac3, w ośrodkach wydzielających węgiel"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "176)",
+        "pytanie": "Podaj, którą z powłok należałoby zastosować do pokrywania współpracujących ze sobą tzw. „suchych węzłów tarcia”?",
+        "odpowiedzi": {
+            "a": "CrN",
+            "b": "wielowarstwowa C/WC",
+            "c": "TiCN",
+            "d": "TiAl/WC"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "177)",
+        "pytanie": "Podczas hartowania indukcyjnego, przedmioty hartowane nie powinny być chłodzone:",
+        "odpowiedzi": {
+            "a": "olejem",
+            "b": "wodą",
+            "c": "powietrzem",
+            "d": "chłodziwem syntetycznym"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "178)",
+        "pytanie": "Podaj, którym z mechanizmów umocnienia materiałów tłumaczy się wzrost twardości warstwy wierzchniej stali poddanej kulowaniu:",
+        "odpowiedzi": {
+            "a": "umocnieniem wydzieleniowym",
+            "b": "umocnieniem roztworowym",
+            "c": "umocnieniem dyslokacyjnym",
+            "d": "umocnieniem przez rozdrobnienie ziarna"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "179)",
+        "pytanie": "Warstwę materiału ograniczoną rzeczywistą powierzchnią przedmiotu, obejmującą tę powierzchnię oraz część materiału w głąb od powierzchni rzeczywistej, która wykazuje zmienione cechy fizyczne i niekiedy chemiczne w stosunku do cech tego materiału w głębi przedmiotu nazywamy:",
+        "odpowiedzi": {
+            "a": "powłoką",
+            "b": "powierzchnią",
+            "c": "warstwy powierzchniową",
+            "d": "warstwą wierzchnią"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "180)",
+        "pytanie": "Układ stanowiący próbkę wykonaną ze stali poddaną obróbce cieplnej nazwiemy układem:",
+        "odpowiedzi": {
+            "a": "nieizolowanym",
+            "b": "izolowanym",
+            "c": "otwartym",
+            "d": "równowagowym"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "181)",
+        "pytanie": "Energia wewnętrzna układu izolowanego:",
+        "odpowiedzi": {
+            "a": "pozostaje stała",
+            "b": "zawsze dąży do minimum",
+            "c": "jest równa entropii",
+            "d": "jest równa różnicy ciepła przemiany i pracy"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "182)",
+        "pytanie": "W układzie nieizolowanym zmiana energia wewnętrznej:",
+        "odpowiedzi": {
+            "a": "pozostaje stała",
+            "b": "jest równa entropii",
+            "c": "jest równa różnicy ciepła przemiany i pracy",
+            "d": "jest równa energii swobodnej"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "183)",
+        "pytanie": "Która funkcja termodynamiczna jest najbardziej zbliżona do energii wewnętrznej?",
+        "odpowiedzi": {
+            "a": "entalpia",
+            "b": "entropia cieplna",
+            "c": "entropia zmieszania",
+            "d": "energia swobodna"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "184)",
+        "pytanie": "Wraz ze wzrostem temperatury:",
+        "odpowiedzi": {
+            "a": "stabilne termodynamicznie stają się fazy o coraz wyższej entropii",
+            "b": "stabilne termodynamicznie stają się fazy o coraz większym stopniu uporządkowania",
+            "c": "stabilne termodynamicznie stają się fazy o coraz wyższej entalpii",
+            "d": "stabilne termodynamicznie stają się fazy o coraz niższej energii wewnętrznej"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "185)",
+        "pytanie": "Która funkcja stanowi kryterium równowagi termodynamicznej układu izolowanego?",
+        "odpowiedzi": {
+            "a": "Energia wewnętrzna",
+            "b": "Entalpia",
+            "c": "Entropia",
+            "d": "Energia swobodna"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "186)",
+        "pytanie": "Zgodnie z II zasadą termodynamiki entropia układu izolowanego:",
+        "odpowiedzi": {
+            "a": "maleje, a w równowadze osiąga wartość minimalną",
+            "b": "maleje, a w równowadze osiąga wartość równą 0",
+            "c": "rośnie, a w równowadze osiąga wartość równą 0",
+            "d": "rośnie, a w równowadze osiąga wartość maksymalną"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "187)",
+        "pytanie": "Entropia zmieszania zależy:",
+        "odpowiedzi": {
+            "a": "tylko od stężenia poszczególnych składników",
+            "b": "od rodzaju składników i temperatury",
+            "c": "tylko od temperatury",
+            "d": "od ciśnienia i temperatury"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "188)",
+        "pytanie": "Wakancje są defektami równowagowymi, ponieważ:",
+        "odpowiedzi": {
+            "a": "ich obecność zawsze obniża entropię układu",
+            "b": "ich obecność prowadzi do obniżenia temperatury topnienia układu",
+            "c": "ich odpowiednie stężenie prowadzi do zminimalizowania energii wewnętrznej układu",
+            "d": "ich odpowiednie stężenie prowadzi do zminimalizowania energii swobodnej układu"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "189)",
+        "pytanie": "Energia swobodna Gibbsa układu jednoskładnikowego zależy od::",
+        "odpowiedzi": {
+            "a": "temperatury i objętości",
+            "b": "entalpii i ciśnienia",
+            "c": "temperatury i ciśnienia",
+            "d": "entalpii i objętości"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "190)",
+        "pytanie": "Warunkiem równowagi w układzie jednoskładnikowym jest:",
+        "odpowiedzi": {
+            "a": "równość potencjałów chemicznych danego składnika we współistniejących fazach",
+            "b": "równość entropii współistniejących faz",
+            "c": "równość energii wewnętrznych współistniejących faz",
+            "d": "równość energii swobodnych współistniejących faz"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "191)",
+        "pytanie": "Która funkcja termodynamiczna w temperaturze przemiany (np. topnieni",
+        "odpowiedzi": {
+            "a": "przyjmuje taką samą wartość dla dwóch różnych faz: a) energia swobodna Gibbsa",
+            "b": "entropia",
+            "c": "energia wewnętrzna",
+            "d": "entalpia"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "192)",
+        "pytanie": "W układzie jednoskładnikowym wzrost ciśnienia:",
+        "odpowiedzi": {
+            "a": "zawsze prowadzi do zwiększenia zakresu stabilności fazy o mniejszej objętości",
+            "b": "zawsze prowadzi do zwiększania zakresu stabilności fazy o większej objętości",
+            "c": "zawsze prowadzi do zwiększania zakresu stabilności fazy ciekłej",
+            "d": "nie zmienia zakresów stabilności faz"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "193)",
+        "pytanie": "Charakterystyczną cechą transportu przelotowego natryskowego podczas spawania metodą GMAW (MIG/MAG) jest",
+        "odpowiedzi": {
+            "a": "występowanie kropli o średnicach większych od elektrody",
+            "b": "jednoczesna obecność wielu drobnych kropli w przestrzeni międzyelektrodowej",
+            "c": "transport kropli do jeziorka z małą częstotliwością",
+            "d": "występowanie chwilowego lub ciągłego kontaktu między topioną elektrodą a płynnym jeziorkiem"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "194)",
+        "pytanie": "W procesie spawania metodą GTAW (TIG) połączenie spawane otrzymuje się przez stopienie",
+        "odpowiedzi": {
+            "a": "materiału spawanego i materiału dodatkowego ciepłem łuku jarzącego się między elektrodą nieto- pliwą i materiałem spawanym w osłonie gazu aktywnego.",
+            "b": "materiału spawanego i materiału dodatkowego ciepłem łuku jarzącego się między elektrodą nieto- pliwą i materiałem spawanym w osłonie gazu obojętnego lub redukującego.",
+            "c": "materiału spawanego i materiału dodatkowego ciepłem łuku jarzącego się między elektrodą to- pliwą i materiałem spawanym w osłonie gazu aktywnego.",
+            "d": "materiału spawanego i materiału dodatkowego ciepłem łuku jarzącego się między elektrodą to- pliwą i materiałem spawanym w osłonie gazu obojętnego lub redukującego."
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "195)",
+        "pytanie": "Spawanie metodą GMAW (MIG/MAG) prowadzone jest głównie:",
+        "odpowiedzi": {
+            "a": "prądem stałym z biegunowością ujemną",
+            "b": "z wykorzystaniem elektrody nietopliwej",
+            "c": "w zamkniętej komorze wypełnionej parami i gazami w różnym stopniu zjonizowanymi",
+            "d": "prądem stałym z biegunowością dodatnią"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "196)",
+        "pytanie": "Która z wymienionych wielkości nie charakteryzuje cyklu cieplnego spawania:",
+        "odpowiedzi": {
+            "a": "długi czas wytrzymania w temperaturze maksymalnej",
+            "b": "duża szybkość nagrzewania",
+            "c": "wysoka temperatura maksymalna cyklu",
+            "d": "szybkość chłodzenia zależna od warunków spawania"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "197)",
+        "pytanie": "Odprężanie mechaniczne w złączach spawanych polega na",
+        "odpowiedzi": {
+            "a": "obniżeniu naprężeń własnych w konstrukcji pod wpływem przyłożonych naprężeń zewnętrznych",
+            "b": "wyżarzaniu odprężającym elementu konstrukcji",
+            "c": "wyżarzaniu miejscowym elementu konstrukcji",
+            "d": "wprowadzeniu fali ultradźwiękowej w konstrukcji spawanej"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "198)",
+        "pytanie": "Największy wpływ na kształt jeziorka spawalniczego ma:",
+        "odpowiedzi": {
+            "a": "siła wyporu,",
+            "b": "siła napięcia powierzchniowego",
+            "c": "siła Lorentza,",
+            "d": "siła strumienia ruchu plazmowego"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "199)",
+        "pytanie": "Podczas zarodkowania i wzrostu epitaksjalnego w obszarze jeziorka spawalniczego",
+        "odpowiedzi": {
+            "a": "rosnące kryształy mają orientację krystalograficzną odmienną niż ziarna, na których powstały",
+            "b": "rosnące kryształy mają orientację krystalograficzną taką jak ziarna, na których powstały",
+            "c": "między ziarnami, na których zachodzi zarodkowanie, a rosnącymi ziarnami, może, ale nie musi, wy- stąpić uprzywilejowana orientacja krystalograficzna",
+            "d": "częściowo roztopione ziarna odłączają się od mieszaniny ciecz-ciało stałe i stają się zarodkami no- wych ziaren"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "200)",
+        "pytanie": "Do chemicznej niejednorodności spoiny zaliczamy pasmowość struktury, która oznacza:",
+        "odpowiedzi": {
+            "a": "występowanie w spoinie obszarów wzbogaconych w domieszkę i zubożonych w nią",
+            "b": "zmienność składu w obrębie komórek",
+            "c": "zmienność składu na wysokości spoiny",
+            "d": "obecność przy linii wtopienia warstwy nieruchomej Nernsta"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "201)",
+        "pytanie": "Do czynników wpływających na pęknięcia gorące krystalizacyjne spoin zaliczamy m.in.:",
+        "odpowiedzi": {
+            "a": "warunki i charakter procesu krystalizacji, zakres temperatur krzepnięcia",
+            "b": "naprężenia normalne do powierzchni blachy, obecność struktur przesyconych",
+            "c": "obecność struktur przesyconych, zwiększoną zawartość siarki",
+            "d": "warunki i charakter procesu krystalizacji, obecność struktur przesyconych"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "202)",
+        "pytanie": "Do przyczyn powstawania pęknięć zimnych w złączach spawanych zaliczamy m.in.:",
+        "odpowiedzi": {
+            "a": "zwiększoną hartowność stali, obecność wodoru",
+            "b": "naprężenia normalne do powierzchni blachy, zakres temperatur krzepnięcia",
+            "c": "obecność struktur przesyconych, zwiększona zawartość siarki",
+            "d": "warunki i charakter procesu krystalizacji, zakres temperatur krzepnięcia"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "203)",
+        "pytanie": "Do obróbki cieplnej połączeń spawanych zaliczamy",
+        "odpowiedzi": {
+            "a": "grzanie w procesie spawania (podgrzewanie przed spawaniem, grzanie przed i po zakończeniu spa- wania oraz chłodzenie), wyżarzanie po spawaniu (wyżarzanie odprężające całej konstrukcji, wyża- rzanie miejscowe, wyżarzanie normalizujące, wyżarzanie w zakresie Ac1-Ac3)",
+            "b": "podgrzewanie przed spawaniem, wyżarzanie po spawaniu (wyżarzanie odprężające całej konstruk- cji, wyżarzanie miejscowe, wyżarzanie normalizujące, wyżarzanie w zakresie Ac1-Ac3)",
+            "c": "wyżarzanie po spawaniu (wyżarzanie odprężające całej konstrukcji, wyżarzanie miejscowe, wyżarza- nie normalizujące, wyżarzanie w zakresie Ac1-Ac3)",
+            "d": "grzanie w procesie spawania (podgrzewanie przed spawaniem, grzanie przed i po zakończeniu spa- wania oraz chłodzenie)"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "204)",
+        "pytanie": "Do obszarów struktur złącza spawanego stali niestopowych w stanie nieodkształconym zaliczamy:",
+        "odpowiedzi": {
+            "a": "obszar częściowego roztopienia, obszar przegrzania, obszar normalizacji, obszar częściowego prze- krystalizowania",
+            "b": "spoinę, strefę wpływu ciepła (obszar częściowego roztopienia, obszar przegrzania, obszar normali- zacji, obszar częściowego przekrystalizowania, obszar rekrystalizacji, obszar kruchości na niebiesko), materiał rodzimy",
+            "c": "spoinę, strefę wpływu ciepła (obszar częściowego roztopienia, obszar przegrzania, obszar normali- zacji, obszar częściowego przekrystalizowania), materiał rodzimy",
+            "d": "obszar częściowego roztopienia, obszar przegrzania, obszar normalizacji, obszar częściowego prze- krystalizowania, obszar rekrystalizacji, obszar kruchości na niebiesko"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "205)",
+        "pytanie": "Obszar normalizacji strefy wpływu ciepła złącza spawanego w stalach niestopowych ma mikrostruk- turę:",
+        "odpowiedzi": {
+            "a": "gruboziarnistą, ferrytyczno-perlityczną",
+            "b": "złożoną z dużego ziarna ferrytu i drobnoziarnistej struktury ferrytyczno- perlitycznej",
+            "c": "drobnoziarnistą, ferrytyczno-perlityczną",
+            "d": "gruboziarnistą, z obecnością ferrytu Widmanstättena"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "206)",
+        "pytanie": "Promieniowanie rentgenowskie to:",
+        "odpowiedzi": {
+            "a": "promieniowanie elektromagnetyczne o dużej przenikalności przez materię",
+            "b": "promieniowanie emitowane przez pierwiastki promieniotwórcze",
+            "c": "promieniowanie elektromagnetyczne o długości fali z zakresu 0,001-50,0 nm",
+            "d": "wiązka elektronów przyspieszonych w polu elektrycznym"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "207)",
+        "pytanie": "Wartość krótkofalowej granicy widma lampy rentgenowskiej zależy od:",
+        "odpowiedzi": {
+            "a": "rodzaju materiału, z którego wykonano katodę lampy rentgenowskiej",
+            "b": "napięcia pracy lampy rentgenowskiej",
+            "c": "rodzaju materiału, z którego wykonano anodę lampy rentgenowskiej",
+            "d": "długości fali promieniowania lampy rentgenowskiej"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "208)",
+        "pytanie": "Rodzaj (długość) promieniowania charakterystycznego powstającego w lampie zależy od:",
+        "odpowiedzi": {
+            "a": "rodzaju materiału, z którego wykonano anodę lampy rentgenowskiej",
+            "b": "rodzaju materiału, z którego wykonano katodę lampy rentgenowskiej",
+            "c": "napięcia przyłożonego między katodą a anodą",
+            "d": "natężenia prądu płynącego między katodą a anodą"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "209)",
+        "pytanie": "Dobrze dobrany filtr promieniowania rentgenowskiego",
+        "odpowiedzi": {
+            "a": "osłabia jednakowo promieniowanie serii K i K alfa beta",
+            "b": "osłabia bardziej promieniowanie serii K niż K alfa beta",
+            "c": "osłabia promieniowanie serii K nie wpływając na intensywność promieniowania K beta alfa",
+            "d": "osłabia obie serie promieniowania jednak K bardziej niż K beta alfa"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "210)",
+        "pytanie": "Na podstawie równania Bragg’a można wyznaczyć",
+        "odpowiedzi": {
+            "a": "odległość pomiędzy płaszczyznami sieciowymi",
+            "b": "krótkofalową granicę widma",
+            "c": "typ sieci krystalicznej preparatu, na którym zachodzi zjawisko dyfrakcji",
+            "d": "udział objętościowy faz w materiale"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "211)",
+        "pytanie": "Dwie fazy o takim samym regularnym typie sieci ale różnych parametrach sieci dają linie dyfrakcyjne w:",
+        "odpowiedzi": {
+            "a": "takich samych położeniach kątowych",
+            "b": "takich samych położeniach kątowych ale różniące się intensywnością",
+            "c": "takich samych położeniach kątowych i o jednakowej intensywności",
+            "d": "różnych położeniach kątowych"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "212)",
+        "pytanie": "Dla kryształów o budowie regularnej przestrzennie centrowanej czynnik struktury jest różny od zera gdy",
+        "odpowiedzi": {
+            "a": "suma wskaźników płaszczyzn hkl jest nieparzysta",
+            "b": "wskaźniki hkl sa niemieszane",
+            "c": "suma wskaźników płaszczyzn hkl jest parzysta",
+            "d": "wskaźniki hkl są nieparzyste"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "213)",
+        "pytanie": "Czynnik struktury opisuje jak promieniowanie rentgenowskie jest rozpraszane przez:",
+        "odpowiedzi": {
+            "a": "elektrony w atomach",
+            "b": "pojedyncze elektrony",
+            "c": "atomy w sieci krystalicznej",
+            "d": "jądra atomów"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "214)",
+        "pytanie": "Intensywność promieniowania ugiętego na krysztale:",
+        "odpowiedzi": {
+            "a": "maleje wraz ze wzrostem objętości komórki elementarnej",
+            "b": "nie zależy od objętości komórki elementarnej",
+            "c": "rośnie wraz ze wzrostem objętości komórki elementarnej",
+            "d": "zależy jedynie od długości użytego promieniowania"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "215)",
+        "pytanie": "Dyfraktometr to urządzenie w którym dokonuje się pomiaru:",
+        "odpowiedzi": {
+            "a": "zależności natężenia promieniowania rentgenowskiego ugiętego na preparacie od kąta jego padania na próbkę",
+            "b": "stopnia osłabienia promieniowania rentgenowskiego przechodzącego przez preparat",
+            "c": "zależności intensywności promieniowania rtg. od rodzaju lampy rentgenowskiej",
+            "d": "zależności długości fali rentgenowskiej od kąta ugięcia promieniowania na krysztale."
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "216)",
+        "pytanie": "Rentgenowska ilościowa analiza fazowa określa:",
+        "odpowiedzi": {
+            "a": "skład chemiczny badanego preparatu",
+            "b": "budowę krystaliczną badanego preparatu",
+            "c": "skład fazowy badanego preparatu",
+            "d": "parametr sieci badanych faz"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "217)",
+        "pytanie": "Podstawą rentgenowskiej ilościowej analizy fazowej jest:",
+        "odpowiedzi": {
+            "a": "porównanie intensywności eksperymentalnych i wzorcowych linii dyfrakcyjnych",
+            "b": "porównanie natężeń linii dyfrakcyjnych pochodzących od faz występujących w materiale",
+            "c": "porównanie położeń kątowych na eksperymentalnych i wzorcowych dyfraktogramach",
+            "d": "porównanie położeń linii dyfrakcyjnych pochodzących od faz występujących w materiale"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "218)",
+        "pytanie": "Tekstura krystalograficzna materiału polega na tym, że",
+        "odpowiedzi": {
+            "a": "ziarna w materiale steksturowanym są wydłużone w kierunku walcowania",
+            "b": "orientacja krystalograficzna poszczególnych ziaren w materiale nie jest przypadkowa",
+            "c": "zróżnicowany jest udział faz w materiale polikrystalicznym",
+            "d": "ziarna w materiale polikrystalicznym są ułożone przypadkowo"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "219)",
+        "pytanie": "Tekstura krystalograficzna jest przyczyną:",
+        "odpowiedzi": {
+            "a": "anizotropii materiałów",
+            "b": "alotropii materiałów",
+            "c": "amorficzności materiałów",
+            "d": "izotropii materiałów"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "220)",
+        "pytanie": "Bor dodajemy do stali do ulepszania cieplnego w celu zwiększenia hartowności, dlaczego dodawany jest tylko do stali o zawartości od 0,2 do 0,4 węgla w zasadzie bez innych pierwiastków stopowych?",
+        "odpowiedzi": {
+            "a": "bo węgiel jest niezbędny aby hartowanie było skuteczne, natomiast zwiększona zawartość węgla osłabia skuteczność dodatku boru. Nie ma innych pierwiastków bo mogłyby się utworzyć borki co zmniejszałoby hartowność",
+            "b": "taki przedział węgla jest charakterystyczny dla tej grupy stali i nie o bor tutaj chodzi. Bor dodaje się sam bo chodzi o jak najtańsze stale",
+            "c": "bor dodaje się do gatunków wyżej węglowych, bo wtedy razem z węglem silnie zwiększa hartow- ność i nie potrzeba innych pierwiastków stopowych, które zwiększałyby cenę stali",
+            "d": "bo to wpływa niekorzystnie na lejność stali"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "221)",
+        "pytanie": "Celem odpuszczania stali jest:",
+        "odpowiedzi": {
+            "a": "zmniejszenie twardości",
+            "b": "stabilizacja wymiarowa detali",
+            "c": "zwiększenie właściwości plastycznych stali, a spadek twardości jest nieuniknioną konsekwencją od- puszczania",
+            "d": "zwiększenie właściwości plastycznych i wytrzymałościowych"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "222)",
+        "pytanie": "Czynniki wpływające na hartowność stali to:",
+        "odpowiedzi": {
+            "a": "skład chemiczny, jednorodność austenitu, ośrodek chłodzący",
+            "b": "skład chemiczny, skład fazowy, ośrodek chłodzący, jednorodność austenitu",
+            "c": "skład chemiczny, jednorodność austenitu",
+            "d": "wielkość ziarna austenitu, skład chemiczny, jednorodność austenitu, nierozpuszczone cząstki"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "223)",
+        "pytanie": "Dlaczego niklu i manganu nie stosuje się w stalach narzędziowych do pracy na gorąco oraz szybkot- nących?",
+        "odpowiedzi": {
+            "a": "bo sprzyjają wydzielaniu cementytu i blokują w ten sposób wydzielanie węglików stopowych dają- cych efekt twardości wtórnej",
+            "b": "bo nikiel jest drogi, a mangan powoduje pasmowość, a stale te muszą mieć wysoką udarność",
+            "c": "oczywiście, że się dodaje poprawiają udarność, ale przede wszystkim zwiększają hartowność i ha- mują spadek właściwości z temperaturą odpuszczania",
+            "d": "bo obniżają temperaturę Ac1s"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "224)",
+        "pytanie": "Dlaczego podczas nagrzewania w stalach dochodzi do rozdzielenie temperatury Ac1 na Ac1s i Ac1f?",
+        "odpowiedzi": {
+            "a": "ze względu na domieszki i pierwiastki stopowe oraz skończoną szybkość nagrzewania",
+            "b": "przez perlit, gdyż w różnym czasie rozpuszcza się płytka cementytu i przemienia ferryt w austenit",
+            "c": "ze względu na różne współczynniki dyfuzji węgla i samodyfuzji żelaza w żelazie alfa i gamma",
+            "d": "przez szybkość nagrzewania daleką od równowagi"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "225)",
+        "pytanie": "Fazy obce w stopach żelaza:",
+        "odpowiedzi": {
+            "a": "to związki międzymetaliczne, fazy Lavesa i nadstruktury",
+            "b": "tworzą pierwiastki o ograniczonej rozpuszczalności, jak miedź i ołów",
+            "c": "to wszystkie wydzielenia, które wydzielając się zwiększają określoną cechę stali",
+            "d": "to wtrącenia egzogeniczne, pochodzące z elementów wymurówki"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "226)",
+        "pytanie": "Jakiego typu węgliki dają efekt twardości wtórnej:",
+        "odpowiedzi": {
+            "a": "węgliki typu MC i M2C",
+            "b": "węgliki M2C i M6C",
+            "c": "węgliki pierwotne MC i M6C",
+            "d": "węgliki typu MC i M7C3"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "227)",
+        "pytanie": "Jedyne wtrącenia niemetaliczne, które dają się odkształcać to:",
+        "odpowiedzi": {
+            "a": "tlenki",
+            "b": "siarczki żelaza",
+            "c": "siarczki azotu",
+            "d": "siarczki manganu"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "228)",
+        "pytanie": "Jeśli porównujemy dwa pierwiastki austenitotwórcze nikiel i mangan to:",
+        "odpowiedzi": {
+            "a": "nikiel zarówno silniej obniża temperaturę w punkcie S układu żelazo cementyt jak i silniej przesuwa go do niższych zawartości węgla",
+            "b": "nikiel silniej obniża temperaturę w punkcie S układu żelazo cementyt, natomiast mangan silniej przesuwa go do niższych zawartości węgla",
+            "c": "mangan zarówno silniej obniża temperaturę w punkcie S układu żelazo cementyt jak i silniej prze- suwa go do niższych zawartości węgla",
+            "d": "mangan silniej obniża temperaturę w punkcie S układu żelazo cementyt, natomiast nikiel silniej przesuwa go do niższych zawartości węgla"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "229)",
+        "pytanie": "Jeżeli szybkość krytyczna jest mała to:",
+        "odpowiedzi": {
+            "a": "hartowność stali jest duża",
+            "b": "to znaczy, że trzeba używać przy hartowaniu ośrodków o dużych szybkościach odprowadzania cie- pła",
+            "c": "hartowność stali jest mała",
+            "d": "można je szybko nagrzewać lub chłodzić bez ryzyka pęknięć w materiale"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "230)",
+        "pytanie": "Kobalt dodawany jest do stali narzędziowych do pracy na gorąco i szybkotnących ponieważ:",
+        "odpowiedzi": {
+            "a": "bo zwiększa przewodność cieplną oraz przyspiesza wydzielanie węglików tworzonych przez inne pierwiastki podczas odpuszczania, co intensyfikuje pik twardości wtórnej",
+            "b": "zwiększa przewodność cieplną, sam węglików nie tworzy ale węgliki innych pierwiastków wydziela- jące się podczas odpuszczania są drobniejsze i równomierniej rozmieszczone, co pozwala na przesu- nięcie piku twardości wtórnej do wyższych temperatura i jego poszerzenie",
+            "c": "bo zmniejsza przewodność cieplną oraz tworzy umacniające wydzieleniowo węgliki",
+            "d": "bo zwiększa przewodność cieplną oraz tworzy umacniające wydzieleniowo fazy międzymetaliczne skutecznie umacniające w wyższych temperaturach"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "231)",
+        "pytanie": "Kruchość odpuszczania II można zapobiegać:",
+        "odpowiedzi": {
+            "a": "przez ponowne nagrzanie i powolne ostudzenie",
+            "b": "przez wydłużanie czasu odpuszczania, ale odpuszczać nie dłużej niż 1 minutę na każdy mm prze- kroju",
+            "c": "przez szybkie chłodzenie po odpuszczaniu i/lub dodatek molibdenu do około 0,4% wag.",
+            "d": "wydzielenia węglików stopowych typu M2C i M6C molibdenu"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "232)",
+        "pytanie": "Pasmowość stali wynika z:",
+        "odpowiedzi": {
+            "a": "przeróbki plastycznej",
+            "b": "warunków krystalizacji, składu chemicznego, przeróbki plastycznej",
+            "c": "warunków krystalizacji i składu chemicznego",
+            "d": "warunków krystalizacji, przeróbki plastycznej"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "233)",
+        "pytanie": "Pierwiastki międzywęzłowe w stali",
+        "odpowiedzi": {
+            "a": "zajmują miejsca w pozycjach atomów żelaza, lecz ze względu na ich mały rozmiar atomów powo- dują naprężenia w sieci krystalicznej i silny wzrost właściwości wytrzymałościowych",
+            "b": "wszystkie są szkodliwe i usuwamy je do bezpiecznej wartości",
+            "c": "mają bardzo małą lub ograniczoną rozpuszczalność w stanie stałym, powodując duże naprężenia w sieci krystalicznej, co wykorzystywane jest do zwiększenia wytrzymałości",
+            "d": "zajmują miejsca w lukach i podnoszą w ten sposób wytrzymałość i udarność"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "234)",
+        "pytanie": "Najbardziej elementarny akt poznawania rzeczywistości to:",
+        "odpowiedzi": {
+            "a": "eksperyment",
+            "b": "obserwacja",
+            "c": "spostrzeganie",
+            "d": "paradygmat"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "235)",
+        "pytanie": "Ilościowe wyrażenie wielkości poprzez podanie liczby i jednostki miary to:",
+        "odpowiedzi": {
+            "a": "miara",
+            "b": "wartość",
+            "c": "jednostka",
+            "d": "moda"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "236)",
+        "pytanie": "Cecha (właściwość) obiektu (zjawiska, ciała lub substancji), którą można wyrazić jakościowo i wyznaczyć ilościowo za pomocą liczby i odniesienia to:",
+        "odpowiedzi": {
+            "a": "wielkość",
+            "b": "wartość",
+            "c": "miara",
+            "d": "jednostka"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "237)",
+        "pytanie": "Zbiór operacji mający na celu wyznaczenie wartości wielkości to:",
+        "odpowiedzi": {
+            "a": "wyliczenie",
+            "b": "obliczanie",
+            "c": "walidacja",
+            "d": "pomiar"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "238)",
+        "pytanie": "Co odpowiada na pytanie ile czegoś jest:",
+        "odpowiedzi": {
+            "a": "wartość",
+            "b": "miara",
+            "c": "walidacja",
+            "d": "wynik pomiaru"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "239)",
+        "pytanie": "Wielkość, która ma być zmierzona to:",
+        "odpowiedzi": {
+            "a": "wynik (miara)",
+            "b": "mezurand (menzurand)",
+            "c": "mediana",
+            "d": "moda"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "240)",
+        "pytanie": "Dla zbiorów liczb określamy relacje:",
+        "odpowiedzi": {
+            "a": "realne",
+            "b": "względne",
+            "c": "rzeczywiste",
+            "d": "abstrakcyjne"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "241)",
+        "pytanie": "Skala oparta tylko na relacji równoważności to skala:",
+        "odpowiedzi": {
+            "a": "porządkowa",
+            "b": "interwałowa",
+            "c": "nominalna",
+            "d": "ilorazowa"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "242)",
+        "pytanie": "Skala twardości Mohsa to skala:",
+        "odpowiedzi": {
+            "a": "nominalna",
+            "b": "porządkowa",
+            "c": "interwałowa",
+            "d": "ilorazowa"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "243)",
+        "pytanie": "Parametr związany z wynikiem pomiaru, charakteryzujący rozrzut wartości, które można w uzasadniony sposób przypisać wielkości mierzonej to:",
+        "odpowiedzi": {
+            "a": "rozrzut wyników",
+            "b": "mediana",
+            "c": "średnia",
+            "d": "niepewność pomiarowa"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "244)",
+        "pytanie": "Różnica pomiędzy średnią z nieskończonej liczby wyników pomiarów tej samej wielkości mierzonej, wykonanych w warunkach powtarzalności a wartością prawdziwą wielkości mierzonej to:",
+        "odpowiedzi": {
+            "a": "błąd rozrzutu",
+            "b": "błąd statystyczny",
+            "c": "błąd systematyczny",
+            "d": "błąd średni"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "245)",
+        "pytanie": "Pomiar twardości Brinella dedykowany jest dla próbek o jakich rozmiarach i jakiej jednorodności:",
+        "odpowiedzi": {
+            "a": "duże rozmiary i mała jednorodność",
+            "b": "małe rozmiary i mała jednorodność",
+            "c": "duże rozmiary i duża jednorodność",
+            "d": "małe rozmiary i duża jednorodność"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "246)",
+        "pytanie": "Średnia arytmetyczna odchyłek profilu chropowatości to:",
+        "odpowiedzi": {
+            "a": "Ra",
+            "b": "Rt",
+            "c": "Rmax",
+            "d": "Rq"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "247)",
+        "pytanie": "W przypadku dodawania wymiarów tolerowanych tolerancje się:",
+        "odpowiedzi": {
+            "a": "mnoży",
+            "b": "odejmuje",
+            "c": "dzieli",
+            "d": "dodaje"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "248)",
+        "pytanie": "Części ułamkowe milimetra odczytujemy na suwmiarce na skali:",
+        "odpowiedzi": {
+            "a": "głównej",
+            "b": "noniusza",
+            "c": "pobocznej",
+            "d": "pośredniej"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "249)",
+        "pytanie": "Paradygmatem metrologii są słowa Galileusza – dokończ zdanie: Policz to, co można policzyć, zmierz to, co można zmierzyć, a to co jest nie mierzalne, …",
+        "odpowiedzi": {
+            "a": "uczyń mierzalnym",
+            "b": "nie można zmierzyć",
+            "c": "należy oszacować",
+            "d": "należy zmierzyć"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "250)",
+        "pytanie": "Część metrologii zajmująca się praktycznym uzyskiwaniem wyników pomiarów to:",
+        "odpowiedzi": {
+            "a": "miernictwo",
+            "b": "pomiarowanie",
+            "c": "stereologia",
+            "d": "analiza algebraiczna"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "251)",
+        "pytanie": "Człowiek buduje obserwatorium astronomiczne, mierzy czas trwania kolejnych pór roku, przewiduje nadejście wiosny i kolejność prac polowych, to przykład spostrzegania, obserwacji czy eksperymentu?",
+        "odpowiedzi": {
+            "a": "spostrzegania",
+            "b": "obserwacji",
+            "c": "eksperymentu",
+            "d": "paradygmatu"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "252)",
+        "pytanie": "Jaki charakter ma informacja odpowiadająca na pytanie jakie coś jest?",
+        "odpowiedzi": {
+            "a": "ilościowy",
+            "b": "matematyczny",
+            "c": "jakościowy",
+            "d": "stereologiczny"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "253)",
+        "pytanie": "Czego jednostką jest mol:",
+        "odpowiedzi": {
+            "a": "masy",
+            "b": "ilości materii",
+            "c": "gęstości",
+            "d": "powierzchni"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "254)",
+        "pytanie": "Wgłębnik w metodzie Knoopa wykonany jest z:",
+        "odpowiedzi": {
+            "a": "stali szybkotnącej",
+            "b": "węglika spiekanego",
+            "c": "kompozytu",
+            "d": "diamentu"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "255)",
+        "pytanie": "Profil chropowatości w stosunku do profilu falistości charakteryzuje się długością fali:",
+        "odpowiedzi": {
+            "a": "mniejszą",
+            "b": "większą",
+            "c": "równą",
+            "d": "dużo większą"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "256)",
+        "pytanie": "Jednostką pochodną w układzie SI naprężenia mechanicznego jest:",
+        "odpowiedzi": {
+            "a": "kgf (kilogram siła, dyna)",
+            "b": "N (niuton, 1kg1m/s2)",
+            "c": "Pa (paskal, niuton na metr kwadratowy)",
+            "d": "b (bar, 106 dyn/cm2)"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "257)",
+        "pytanie": "Równania Fouriera wykorzystujemy do obliczeń pola temperatury gdy:",
+        "odpowiedzi": {
+            "a": "rozważamy ciało masywne",
+            "b": "rozważamy ciało cienkie",
+            "c": "występują wewnętrzne źródła ciepła",
+            "d": "tego równania nie stosujemy do obliczeń pól temperatury"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "258)",
+        "pytanie": "Pole temperatury w układzie jednowymiarowym (1D) możemy określać:",
+        "odpowiedzi": {
+            "a": "gdy wszystkie wymiary są do siebie zbliżone",
+            "b": "gdy dwa wymiary są, co najmniej 5-ciokrotnie większe od trzeciego",
+            "c": "gdy różnica temperatur między elementem a otoczeniem wynosi, co najmniej 500°C",
+            "d": "tylko dla IV-tego warunku brzegowego (Łykowa)"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "259)",
+        "pytanie": "Czynnikami wpływającymi na hartowność stali są:",
+        "odpowiedzi": {
+            "a": "wielkość ziarna austenitu",
+            "b": "wszystkie odpowiedzi są dobre",
+            "c": "zawartość wtrąceń niemetalicznych",
+            "d": "jednorodność składu chemicznego austenitu"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "260)",
+        "pytanie": "Równanie Holomona-Jaffe:",
+        "odpowiedzi": {
+            "a": "określa zależność twardości po odpuszczaniu od zawartości węgla",
+            "b": "pozwala na określenia alternatywnych parametrów odpuszczania (czas i temperatura), aby uzyskać te same własności (twardość)",
+            "c": "określenie wartości twardości wtórnej podczas odpuszczania",
+            "d": "określa szybkość krytyczną podczas hartowania"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "261)",
+        "pytanie": "Twardość stali po odpuszczaniu jest funkcją:",
+        "odpowiedzi": {
+            "a": "składu chemicznego stali",
+            "b": "czasu odpuszczania",
+            "c": "temperatury odpuszczania",
+            "d": "wszystkie odpowiedzi są dobre"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "262)",
+        "pytanie": "Przewodnictwo elektryczne półprzewodników rośnie:",
+        "odpowiedzi": {
+            "a": "Ze wzrostem stopnia zdefektowania oraz wzrostem temperatury,",
+            "b": "Ze spadkiem stopnia zdefektowania oraz wzrostem temperatury,",
+            "c": "Ze spadkiem stopnia zdefektowania oraz spadkiem temperatury,",
+            "d": "Ze wzrostem stopnia zdefektowania oraz spadkiem temperatury."
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "263)",
+        "pytanie": "Szkła posiadają uporządkowanie:",
+        "odpowiedzi": {
+            "a": "bliskiego zasięgu",
+            "b": "strukturalne",
+            "c": "nie posiadają jakiegokolwiek uporządkowania budowy",
+            "d": "są a substancjami mikrokrystalicznymi"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "264)",
+        "pytanie": "Sieciowanie polimerów polega na:",
+        "odpowiedzi": {
+            "a": "tworzeniu się łańcuchów z pojedynczych merów",
+            "b": "tworzeniu się podwójnych wiązań pomiędzy merami",
+            "c": "tworzeniu się wiązań poprzecznych między sąsiednimi makrocząsteczkami",
+            "d": "tworzeniu się pierścieni cyklicznych w makrocząsteczkach"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "265)",
+        "pytanie": "Pierwiastki wchodzące w skład tej samej grupy w układzie okresowym mają:",
+        "odpowiedzi": {
+            "a": "taką samą liczbę powłok elektronowych;",
+            "b": "taką samą energię powłoki walencyjnej;",
+            "c": "taką samą energię wszystkich powłok elektronowych.",
+            "d": "taką samą liczbę elektronów walencyjnych;"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "266)",
+        "pytanie": "Materiały korundowe zawierają powyżej 90%:",
+        "odpowiedzi": {
+            "a": "Al O ; 2 3",
+            "b": "ZrO ; 2",
+            "c": "SiC;",
+            "d": "CaO."
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "267)",
+        "pytanie": "Pierwiastek chemiczny to substancja złożona z :",
+        "odpowiedzi": {
+            "a": "atomów o takiej samej liczbie masowej",
+            "b": "atomów o takiej samej masie atomowej",
+            "c": "atomów o takiej samej liczbie atomowej",
+            "d": "takich samych atomów"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "268)",
+        "pytanie": "Co określają wskaźniki Mullera:",
+        "odpowiedzi": {
+            "a": "Nachylenie dowolnej płaszczyzny sieciowej względem trzech osi krystalograficznych,",
+            "b": "Nachylenie płaszczyzn łupliwości kryształu w stosunku do ścian komórki elementarnej,",
+            "c": "Ilość płaszczyzn sieciowych symetrycznych odpowiednio do kierunków X, Y i Z,",
+            "d": "Odległość każdej płaszczyzny sieciowej od węzła 0,0,0."
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "269)",
+        "pytanie": "Komórka elementarna prymitywna to:",
+        "odpowiedzi": {
+            "a": "Posiadająca węzły na środkach ścian,",
+            "b": "Komórka o kształcie sześcianu,",
+            "c": "Zawierająca najmniejsza możliwą liczbę węzłów,",
+            "d": "Wewnętrznie centrowana."
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "270)",
+        "pytanie": "Parametry sieciowe: a ≠ b ≠ c, α = β = γ = 90 stopnijednoznacznie charakteryzują układ krystalogra- ficzny:",
+        "odpowiedzi": {
+            "a": "Jednoskośny,",
+            "b": "Regularny,",
+            "c": "Ortorombowy.",
+            "d": "Trójskośny,"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "271)",
+        "pytanie": "Które z podanych defektów są opisane wektorem Burgersa:",
+        "odpowiedzi": {
+            "a": "wakancje",
+            "b": "koherentne granice międzyziarnowe",
+            "c": "błędy ułożenia",
+            "d": "dyslokacje"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "272)",
+        "pytanie": "Programy typu CAD umożliwiają:",
+        "odpowiedzi": {
+            "a": "komputerowe wspomaganie projektowania,",
+            "b": "zaawansowane przetwarzanie tekstu i przygotowanie stron gazet do druku,",
+            "c": "tworzenie oprogramowania systemów pomiarowych",
+            "d": "obsługę poczty elektronicznej."
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "273)",
+        "pytanie": "Podstawowym pierwiastkiem, który przyczynia się do wzrostu odporności korozyjnej stali jest:",
+        "odpowiedzi": {
+            "a": "Ni",
+            "b": "Mo",
+            "c": "Cr",
+            "d": "W"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "274)",
+        "pytanie": "Perlit w stalach tworzy się:",
+        "odpowiedzi": {
+            "a": "Podczas szybkiego chłodzenia austenitu",
+            "b": "Podczas powolnego chłodzenia austenitu",
+            "c": "Podczas odpuszczania zahartowanej stali",
+            "d": "Podczas procesu hartowania"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "275)",
+        "pytanie": "Wzrost zawartości perlitu w stali spowoduje:",
+        "odpowiedzi": {
+            "a": "Zwiększenie wytrzymałości",
+            "b": "Obniżenie temperatury przejścia w stan kruchy",
+            "c": "Obniżenie twardości stali",
+            "d": "Zwiększenie udarności"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "276)",
+        "pytanie": "Przesycony roztwór stały węgla w żelazie α (alf",
+        "odpowiedzi": {
+            "a": "nazwiemy: a) austenitem",
+            "b": "ferrytem",
+            "c": "martenzytem",
+            "d": "perlitem"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "277)",
+        "pytanie": "Normalizowanie to obróbka cieplna stali prowadząca do:",
+        "odpowiedzi": {
+            "a": "Rekrystalizacji materiału odkształconego",
+            "b": "Usunięcia naprężeń hartowniczych",
+            "c": "Uzyskania martenzytu",
+            "d": "Otrzymania małego równoosiowego ziarna"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "278)",
+        "pytanie": "Którego pierwiastka należy dodać do stali, aby otrzymać austenit w temperaturze pokojowej",
+        "odpowiedzi": {
+            "a": "miedzi",
+            "b": "chromu",
+            "c": "wanadu",
+            "d": "niklu"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "279)",
+        "pytanie": "Zjawisko tzw. twardości wtórnej wykorzystuje się:",
+        "odpowiedzi": {
+            "a": "w stopach aluminium utwardzanych wydzieleniowo",
+            "b": "w blachach na karoserie samochodowe",
+            "c": "w stalach narzędziowych",
+            "d": "w stalach konstrukcyjnych"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "280)",
+        "pytanie": "Na czym polega przemiana eutektyczna przy chłodzeniu",
+        "odpowiedzi": {
+            "a": "w stałej temperaturze z ciała stałego tworzą się dwie nowe fazy stałe",
+            "b": "w stałej temperaturze z cieczy tworzą się dwie fazy stałe",
+            "c": "w stałej temperaturze tworzy się nowa faza stała i ciecz o innym składzie",
+            "d": "w stałej temperaturze ciecz rozpada się na dwie inne fazy ciekłe"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "281)",
+        "pytanie": "Mieszanina eutektyczna austenitu i cementytu to:",
+        "odpowiedzi": {
+            "a": "austenit",
+            "b": "ferryt",
+            "c": "ledeburyt",
+            "d": "perlit"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "282)",
+        "pytanie": "Stopów aluminium nie można hartować ponieważ:",
+        "odpowiedzi": {
+            "a": "Aluminium nie ma odmian alotropowych",
+            "b": "Stopy Al nie zawierają węgla",
+            "c": "Aluminium ma niską temperaturę topnienia",
+            "d": "W stopach Al nie rozpuszczają się żadne pierwiastki"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "283)",
+        "pytanie": "Wybierz temperaturę, z której hartuje się stal niestopową o zawartości węgla 1,1%",
+        "odpowiedzi": {
+            "a": "850°C",
+            "b": "727°C",
+            "c": "650°C",
+            "d": "757°C"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "284)",
+        "pytanie": "Wytrzymałość na rozciąganie Rm to naprężenie rozciągające",
+        "odpowiedzi": {
+            "a": "rzeczywiste, występujące w przekroju poprzecznym próbki w miejscu przewężenia w chwili roze- rwania",
+            "b": "przy osiągnięciu którego następuje trwałe odkształcenie plastyczne materiału",
+            "c": "odpowiadające największej sile obciążającej uzyskanej podczas przeprowadzenia próby",
+            "d": "odpowiadające najmniejszej sile obciążającej uzyskanej podczas przeprowadzenia próby"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "285)",
+        "pytanie": "Nadstopy (superstopy) są to materiały stosowane:",
+        "odpowiedzi": {
+            "a": "W temperaturze kriogenicznej",
+            "b": "Na wytrzymałe narzędzia",
+            "c": "Na mosty",
+            "d": "W wysokiej temperaturze"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "286)",
+        "pytanie": "Ulepszanie cieplne stali jest to proces polegający na:",
+        "odpowiedzi": {
+            "a": "Połączeniu procesów odkształcenia i rekrystalizacji",
+            "b": "Obróbce cieplnej stali bezpośrednio po odlewaniu",
+            "c": "Połączeniu procesów hartowania i normalizowania",
+            "d": "Połączeniu procesów hartowania i odpuszczania"
+        },
+        "poprawna_odpowiedz": "d",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "287)",
+        "pytanie": "Które z poniższych stwierdzeń NIE jest prawdziwe",
+        "odpowiedzi": {
+            "a": "Zmniejszenie ziarna w stali powoduje zwiększenie odporności na pełzanie",
+            "b": "Zmniejszenie ziarna w stali powoduje obniżenie temperatury przejścia w stan kruchy",
+            "c": "Zmniejszenie ziarna w stali powoduje wzrost granicy plastyczności",
+            "d": "Zmniejszenie ziarna w stali nie jest możliwe"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "288)",
+        "pytanie": "Temperaturę przejścia w stan kruchy wykazują metale:",
+        "odpowiedzi": {
+            "a": "O strukturze krystalicznej regularnej ściennie centrowanej A1",
+            "b": "O strukturze krystalicznej heksagonalnej zwartej A3",
+            "c": "O strukturze krystalicznej regularnej przestrzennie centrowanej A2",
+            "d": "Nie zależy od struktury krystalicznej"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "289)",
+        "pytanie": "W jakich jednostkach mierzy się udarność?",
+        "odpowiedzi": {
+            "a": "Energii",
+            "b": "Naprężenia",
+            "c": "Siły",
+            "d": "Ciśnienia"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "290)",
+        "pytanie": "Brązy są to stopy miedzi z:",
+        "odpowiedzi": {
+            "a": "Cynkiem",
+            "b": "Cyną",
+            "c": "Aluminium",
+            "d": "Krzemem"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "291)",
+        "pytanie": "Współczynnik umocnienia stali stosowanych do tłoczenia, np. karoserii samochodowych, powinien być:",
+        "odpowiedzi": {
+            "a": "Jak najmniejszy",
+            "b": "Możliwie duży",
+            "c": "Jego wartość nie ma znaczenia",
+            "d": "Ujemny"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "292)",
+        "pytanie": "Stale dwufazowe (dual phase – DP) stosowane na elementy karoserii samochodowych charaktery- zują się:",
+        "odpowiedzi": {
+            "a": "Niską granicą plastyczności i wysoką wytrzymałością",
+            "b": "Niską granicą plastyczności i niską wytrzymałością",
+            "c": "Wysoką granicą plastyczności i wysoką wytrzymałością",
+            "d": "Wysoką granicą plastyczności i niską wytrzymałością"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "293)",
+        "pytanie": "Podstawowymi pierwiastkami stopowymi stali szybkotnących są:",
+        "odpowiedzi": {
+            "a": "Chrom lub nikiel",
+            "b": "Wolfram lub molibden",
+            "c": "Tytan lub niob",
+            "d": "Krzem lub nikiel"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "294)",
+        "pytanie": "Duże ziarno w materiałach metalicznych jest korzystne, gdy materiał jest stosowany w:",
+        "odpowiedzi": {
+            "a": "Temperaturze kriogenicznej",
+            "b": "Warunkach zmiennych naprężeń",
+            "c": "Podwyższonej temperaturze",
+            "d": "Budowie mostów"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "295)",
+        "pytanie": "Główną cechą stali o dobrej spawalności jest:",
+        "odpowiedzi": {
+            "a": "Wysoka zawartość pierwiastków stopowych",
+            "b": "Struktura drobnoziarnista",
+            "c": "Niska zawartość węgla",
+            "d": "Struktura gruboziarnista"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "296)",
+        "pytanie": "Modyfikację siluminów prowadzi się celem:",
+        "odpowiedzi": {
+            "a": "poprawy własności mechanicznych",
+            "b": "poprawy odporności korozyjnej stopu",
+            "c": "zwiększenia oporności właściwej stopu",
+            "d": "zwiększenia udarności"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "297)",
+        "pytanie": "Które materiały nazywane są piezoelektrykami?",
+        "odpowiedzi": {
+            "a": "takie, w których pod wpływem naprężeń mechanicznych powstaje pole elektryczne i na odwrót",
+            "b": "takie, w których pod wpływem zmiany temperatury powstają na powierzchniach przeciwne ładunki elektryczne",
+            "c": "takie, w których pod wpływem zmiany zewnętrznego pola elektrycznego zmienia się stała dielek- tryczna",
+            "d": "takie, w których pod wpływem zmiany temperatury powstają naprężenia mechaniczne"
+        },
+        "poprawna_odpowiedz": "a",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "298)",
+        "pytanie": "Gdzie głównie stosuje się materiały magnetyczne twarde?",
+        "odpowiedzi": {
+            "a": "do wytwarzania nośników pamięci",
+            "b": "do wytwarzania blach transformatorowych",
+            "c": "do wytwarzania stałych magnesów",
+            "d": "do wytwarzania obudowy telefonów"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "299)",
+        "pytanie": "Co to jest temperatura Curie w odniesieniu do materiałów magnetycznych?",
+        "odpowiedzi": {
+            "a": "temperatura, powyżej której paramagnetyk staje się diamagnetykiem",
+            "b": "temperatura, poniżej której diamagnetyk staje się ferromagnetykiem",
+            "c": "temperatura, powyżej której ferromagnetyk staje się paramagnetykiem",
+            "d": "temperatura, w której materiał staje się kruchy"
+        },
+        "poprawna_odpowiedz": "c",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    },
+    {
+        "numer": "300)",
+        "pytanie": "Które materiały charakteryzują się dużymi współczynniki rozszerzalności cieplnej?",
+        "odpowiedzi": {
+            "a": "materiały o wysokiej temperaturze topnienia",
+            "b": "materiały o niskiej temperaturze topnienia",
+            "c": "materiały o dużej wartości przewodności cieplnej",
+            "d": "materiały o dużej rezystywności"
+        },
+        "poprawna_odpowiedz": "b",
+        "statystyki": {
+            "proby": 0,
+            "poprawne": 0
+        }
+    }
+]
