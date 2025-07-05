@@ -1,0 +1,27 @@
+name: Build APK
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Buildozer
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential git zip unzip openjdk-17-jdk python3-pip
+          pip3 install buildozer cython==0.29.21
+      - name: Init Buildozer Spec (if needed)
+        run: |
+          if [ ! -f buildozer.spec ]; then buildozer init; fi
+      - name: Build APK
+        run: |
+          buildozer android debug
+      - name: Upload APK
+        uses: actions/upload-artifact@v3
+        with:
+          name: quiz-app-apk
+          path: bin/*.apk
