@@ -9,17 +9,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Setup Buildozer
+
+      - name: Setup dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y build-essential git zip unzip openjdk-17-jdk python3-pip
-          pip3 install buildozer cython==0.29.21
-      - name: Init Buildozer Spec (if needed)
+          sudo apt-get install -y build-essential zip unzip openjdk-17-jdk python3-pip
+          pip install --upgrade pip setuptools
+          pip install buildozer cython==0.29.21
+
+      - name: Accept Android Licenses & install SDK tools
         run: |
-          if [ ! -f buildozer.spec ]; then buildozer init; fi
+          yes | sdkmanager --licenses || true
+          sdkmanager "build-tools;34.0.0" || true
+
       - name: Build APK
         run: |
+          buildozer init || true
           buildozer android debug
+
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
